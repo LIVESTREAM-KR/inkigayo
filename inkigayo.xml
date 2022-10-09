@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2022-10-09T06:14:00.980Z</updated>
+    <updated>2022-10-09T07:12:23.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KCM - 아름답던 별들의 밤 | SBS 221009 방송]]></title>
+        <id>https://tv.naver.com/v/29789733</id>
+        <link href="https://tv.naver.com/v/29789733"/>
+        <updated>2022-10-09T07:12:22.579Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[롤링쿼츠(Rolling Quartz) - NAZABABARA | SBS 221009 방송]]></title>
+        <id>https://tv.naver.com/v/29789651</id>
+        <link href="https://tv.naver.com/v/29789651"/>
+        <updated>2022-10-09T07:12:22.580Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KINGDOM(킹덤) - 백야(Long Live The King) | SBS 221009 방송]]></title>
+        <id>https://tv.naver.com/v/29789565</id>
+        <link href="https://tv.naver.com/v/29789565"/>
+        <updated>2022-10-09T07:12:22.580Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마카마카 - I AM | SBS 221009 방송]]></title>
+        <id>https://tv.naver.com/v/29789562</id>
+        <link href="https://tv.naver.com/v/29789562"/>
+        <updated>2022-10-09T07:12:22.581Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - StarLight | SBS 221009 방송]]></title>
+        <id>https://tv.naver.com/v/29789466</id>
+        <link href="https://tv.naver.com/v/29789466"/>
+        <updated>2022-10-09T07:12:22.585Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127 - Faster + 질주 (2 Baddies) | SBS 221002 방송]]></title>
         <id>https://tv.naver.com/v/29619165</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/29445513"/>
         <updated>2022-09-25T12:10:53.707Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mimiirose - Rose | SBS 220925 방송]]></title>
-        <id>https://tv.naver.com/v/29445431</id>
-        <link href="https://tv.naver.com/v/29445431"/>
-        <updated>2022-09-25T12:10:53.719Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강민재 - 장미 | SBS 220925 방송]]></title>
-        <id>https://tv.naver.com/v/29445352</id>
-        <link href="https://tv.naver.com/v/29445352"/>
-        <updated>2022-09-25T12:10:53.719Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라필루스(Lapillus) - GRATATA | SBS 220925 방송]]></title>
-        <id>https://tv.naver.com/v/29445253</id>
-        <link href="https://tv.naver.com/v/29445253"/>
-        <updated>2022-09-25T12:10:53.719Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마카마카 - I AM | SBS 220925 방송]]></title>
-        <id>https://tv.naver.com/v/29445161</id>
-        <link href="https://tv.naver.com/v/29445161"/>
-        <updated>2022-09-25T12:10:53.720Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권민제 - 어묵국물 | SBS 220925 방송]]></title>
-        <id>https://tv.naver.com/v/29445072</id>
-        <link href="https://tv.naver.com/v/29445072"/>
-        <updated>2022-09-25T12:10:53.720Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
