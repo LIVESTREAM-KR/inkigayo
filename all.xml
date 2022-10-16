@@ -2,8 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-16T07:13:54.574Z</updated>
+    <updated>2022-10-16T08:10:12.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[마마무(MAMAMOO) - ILLELLA(일낼라) | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29963200</id>
+        <link href="https://tv.naver.com/v/29963200"/>
+        <updated>2022-10-16T08:10:11.391Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슬기(SEULGI) - 28 Reasons | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962967</id>
+        <link href="https://tv.naver.com/v/29962967"/>
+        <updated>2022-10-16T08:10:11.392Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백호(BAEKHO) - No Rules | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962943</id>
+        <link href="https://tv.naver.com/v/29962943"/>
+        <updated>2022-10-16T08:10:11.401Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stray Kids - CASE 143 | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962860</id>
+        <link href="https://tv.naver.com/v/29962860"/>
+        <updated>2022-10-16T08:10:11.419Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박지훈 - NITRO | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962770</id>
+        <link href="https://tv.naver.com/v/29962770"/>
+        <updated>2022-10-16T08:10:11.435Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TREASURE(트레저) - HELLO | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962769</id>
+        <link href="https://tv.naver.com/v/29962769"/>
+        <updated>2022-10-16T08:10:11.435Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원호(WONHO) - Don't Regret | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962692</id>
+        <link href="https://tv.naver.com/v/29962692"/>
+        <updated>2022-10-16T08:10:11.435Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이채연 - HUSH RUSH | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962594</id>
+        <link href="https://tv.naver.com/v/29962594"/>
+        <updated>2022-10-16T08:10:11.435Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AB6IX - Sugarcoat | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962524</id>
+        <link href="https://tv.naver.com/v/29962524"/>
+        <updated>2022-10-16T08:10:11.435Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권은비 - Underwater | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962445</id>
+        <link href="https://tv.naver.com/v/29962445"/>
+        <updated>2022-10-16T08:10:11.436Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mimiirose - Rose | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962444</id>
+        <link href="https://tv.naver.com/v/29962444"/>
+        <updated>2022-10-16T08:10:11.436Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAVITY - PARTY ROCK | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962376</id>
+        <link href="https://tv.naver.com/v/29962376"/>
+        <updated>2022-10-16T08:10:11.436Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드림캐쳐 - VISION | SBS 221016 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/29962294</id>
@@ -129,89 +213,5 @@
         <link href="https://tv.naver.com/v/29789804"/>
         <updated>2022-10-09T08:10:37.981Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KCM - 아름답던 별들의 밤 | SBS 221009 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29789733</id>
-        <link href="https://tv.naver.com/v/29789733"/>
-        <updated>2022-10-09T07:12:22.579Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롤링쿼츠(Rolling Quartz) - NAZABABARA | SBS 221009 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29789651</id>
-        <link href="https://tv.naver.com/v/29789651"/>
-        <updated>2022-10-09T07:12:22.580Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KINGDOM(킹덤) - 백야(Long Live The King) | SBS 221009 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29789565</id>
-        <link href="https://tv.naver.com/v/29789565"/>
-        <updated>2022-10-09T07:12:22.580Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마카마카 - I AM | SBS 221009 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29789562</id>
-        <link href="https://tv.naver.com/v/29789562"/>
-        <updated>2022-10-09T07:12:22.581Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - StarLight | SBS 221009 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29789466</id>
-        <link href="https://tv.naver.com/v/29789466"/>
-        <updated>2022-10-09T07:12:22.585Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 127 - Faster + 질주 (2 Baddies) | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29619165</id>
-        <link href="https://tv.naver.com/v/29619165"/>
-        <updated>2022-10-02T10:07:16.381Z</updated>
-        <content type="html"><![CDATA[06:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시우민(XIUMIN) - Brand New | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617851</id>
-        <link href="https://tv.naver.com/v/29617851"/>
-        <updated>2022-10-02T08:10:24.091Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - PARTY ROCK | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617773</id>
-        <link href="https://tv.naver.com/v/29617773"/>
-        <updated>2022-10-02T08:10:24.091Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트라이비(TRI.BE) - In The Air (777) | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617769</id>
-        <link href="https://tv.naver.com/v/29617769"/>
-        <updated>2022-10-02T08:10:24.091Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX - DICE | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617697</id>
-        <link href="https://tv.naver.com/v/29617697"/>
-        <updated>2022-10-02T08:10:24.091Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영철- 막가리 | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617609</id>
-        <link href="https://tv.naver.com/v/29617609"/>
-        <updated>2022-10-02T08:10:24.100Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래소년(MIRAE) -  Drip N’ Drop | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617510</id>
-        <link href="https://tv.naver.com/v/29617510"/>
-        <updated>2022-10-02T08:10:24.100Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
 </feed>
