@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-16T06:17:30.119Z</updated>
+    <updated>2022-10-16T07:13:54.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[드림캐쳐 - VISION | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962294</id>
+        <link href="https://tv.naver.com/v/29962294"/>
+        <updated>2022-10-16T07:13:53.814Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미래소년(MIRAE) - Drip N' Drop | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962225</id>
+        <link href="https://tv.naver.com/v/29962225"/>
+        <updated>2022-10-16T07:13:53.814Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAN - Beautiful LIE | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962222</id>
+        <link href="https://tv.naver.com/v/29962222"/>
+        <updated>2022-10-16T07:13:53.815Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - StarLight | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962168</id>
+        <link href="https://tv.naver.com/v/29962168"/>
+        <updated>2022-10-16T07:13:53.815Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코카앤버터 - Mi Deh Yah (feat. KOONTA (쿤타)) | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962035</id>
+        <link href="https://tv.naver.com/v/29962035"/>
+        <updated>2022-10-16T07:13:53.815Z</updated>
+        <content type="html"><![CDATA[02:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슬기(SEULGI) - 28 Reasons | SBS 221009 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/29790639</id>
@@ -178,40 +213,5 @@
         <link href="https://tv.naver.com/v/29617510"/>
         <updated>2022-10-02T08:10:24.100Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마카마카 - I AM | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617429</id>
-        <link href="https://tv.naver.com/v/29617429"/>
-        <updated>2022-10-02T08:10:24.100Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mimiirose - Rose | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617339</id>
-        <link href="https://tv.naver.com/v/29617339"/>
-        <updated>2022-10-02T08:10:24.103Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예빈나다 - 산책하러 갈래 | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617242</id>
-        <link href="https://tv.naver.com/v/29617242"/>
-        <updated>2022-10-02T08:10:24.103Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라필루스(Lapillus) - GRATATA | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617240</id>
-        <link href="https://tv.naver.com/v/29617240"/>
-        <updated>2022-10-02T08:10:24.103Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권민제 - 어묵국물 | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617077</id>
-        <link href="https://tv.naver.com/v/29617077"/>
-        <updated>2022-10-02T07:13:25.877Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
