@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2022-11-13T08:08:59.130Z</updated>
+    <updated>2022-11-13T09:06:34.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이라이트 - Alone | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30731070</id>
+        <link href="https://tv.naver.com/v/30731070"/>
+        <updated>2022-11-13T09:06:33.793Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LE SSERAFIM - ANTIFRAGILE | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30730973</id>
+        <link href="https://tv.naver.com/v/30730973"/>
+        <updated>2022-11-13T09:06:33.794Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조유리 - Loveable | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30730972</id>
+        <link href="https://tv.naver.com/v/30730972"/>
+        <updated>2022-11-13T09:06:33.825Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김종현 - Lights | SBS 221113 방송]]></title>
         <id>https://tv.naver.com/v/30730814</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/30529783"/>
         <updated>2022-11-07T09:07:40.523Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앨리스(ALICE) - DANCE ON | SBS 221106 방송]]></title>
-        <id>https://tv.naver.com/v/30529701</id>
-        <link href="https://tv.naver.com/v/30529701"/>
-        <updated>2022-11-07T09:07:40.524Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tripleS AAA - Generation | SBS 221106 방송]]></title>
-        <id>https://tv.naver.com/v/30529546</id>
-        <link href="https://tv.naver.com/v/30529546"/>
-        <updated>2022-11-07T09:07:40.524Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TFN - AMAZON | SBS 221106 방송]]></title>
-        <id>https://tv.naver.com/v/30529522</id>
-        <link href="https://tv.naver.com/v/30529522"/>
-        <updated>2022-11-07T09:07:40.525Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
