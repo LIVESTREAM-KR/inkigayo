@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2022-11-20T06:09:34.850Z</updated>
+    <updated>2022-11-20T07:06:25.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TFN - AMAZON | SBS 221120 방송]]></title>
+        <id>https://tv.naver.com/v/30920960</id>
+        <link href="https://tv.naver.com/v/30920960"/>
+        <updated>2022-11-20T07:06:25.213Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이라이트 - Alone | SBS 221113 방송]]></title>
         <id>https://tv.naver.com/v/30731070</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30529808"/>
         <updated>2022-11-15T05:04:59.992Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATBO - ATTITUDE | SBS 221106 방송]]></title>
-        <id>https://tv.naver.com/v/30529783</id>
-        <link href="https://tv.naver.com/v/30529783"/>
-        <updated>2022-11-15T05:04:59.993Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
