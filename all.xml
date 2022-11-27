@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-27T06:07:41.587Z</updated>
+    <updated>2022-11-27T07:03:02.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[FIFTY FIFTY - Higher | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31121141</id>
+        <link href="https://tv.naver.com/v/31121141"/>
+        <updated>2022-11-27T07:03:01.613Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIMERS - Fight Inside | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31120984</id>
+        <link href="https://tv.naver.com/v/31120984"/>
+        <updated>2022-11-27T07:03:01.613Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박진영 - Groove Back | SBS 221120 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/30922008</id>
@@ -199,19 +213,5 @@
         <link href="https://tv.naver.com/v/30730440"/>
         <updated>2022-11-13T08:08:58.536Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICHILLIN’ - Draw | SBS 221113 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30730339</id>
-        <link href="https://tv.naver.com/v/30730339"/>
-        <updated>2022-11-13T08:08:58.536Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAXY(크랙시) - Poison Rose | SBS 221113 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30730253</id>
-        <link href="https://tv.naver.com/v/30730253"/>
-        <updated>2022-11-13T08:08:58.536Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
