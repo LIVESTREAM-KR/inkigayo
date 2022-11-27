@@ -2,8 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-27T07:03:02.210Z</updated>
+    <updated>2022-11-27T08:08:26.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[BoA - Forgive Me | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31122261</id>
+        <link href="https://tv.naver.com/v/31122261"/>
+        <updated>2022-11-27T08:08:25.909Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VICTON(빅톤) - Virus | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31122170</id>
+        <link href="https://tv.naver.com/v/31122170"/>
+        <updated>2022-11-27T08:08:25.911Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유아(오마이걸) - Selfish | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31122169</id>
+        <link href="https://tv.naver.com/v/31122169"/>
+        <updated>2022-11-27T08:08:25.914Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첸(CHEN) - 사라지고 있어(Last Scene) | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31122049</id>
+        <link href="https://tv.naver.com/v/31122049"/>
+        <updated>2022-11-27T08:08:25.919Z</updated>
+        <content type="html"><![CDATA[04:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRIPPIN(드리핀) - The One | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31121968</id>
+        <link href="https://tv.naver.com/v/31121968"/>
+        <updated>2022-11-27T08:08:25.938Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베리베리(VERIVERY) - Tap Tap | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31121885</id>
+        <link href="https://tv.naver.com/v/31121885"/>
+        <updated>2022-11-27T08:08:25.940Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATBO - ATTITUDE | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31121799</id>
+        <link href="https://tv.naver.com/v/31121799"/>
+        <updated>2022-11-27T08:08:25.942Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TO1 - 얼음 땡 | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31121795</id>
+        <link href="https://tv.naver.com/v/31121795"/>
+        <updated>2022-11-27T08:08:25.943Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SECRET NUMBER(시크릿넘버) - TAP | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31121695</id>
+        <link href="https://tv.naver.com/v/31121695"/>
+        <updated>2022-11-27T08:08:25.948Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫사랑(CSR) - 러브티콘(♡TiCON) | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31121693</id>
+        <link href="https://tv.naver.com/v/31121693"/>
+        <updated>2022-11-27T08:08:25.949Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes - Hair Cut | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31121619</id>
+        <link href="https://tv.naver.com/v/31121619"/>
+        <updated>2022-11-27T08:08:25.950Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEMPEST(템페스트) - Dragon | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31121618</id>
+        <link href="https://tv.naver.com/v/31121618"/>
+        <updated>2022-11-27T08:08:25.953Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YOUNITE - Bad Cupid | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31121409</id>
+        <link href="https://tv.naver.com/v/31121409"/>
+        <updated>2022-11-27T08:08:25.955Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이처(NATURE) - LIMBO!(넘어와) | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31121326</id>
+        <link href="https://tv.naver.com/v/31121326"/>
+        <updated>2022-11-27T08:08:25.956Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NINE.i(나인아이) - Young Boy | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31121325</id>
+        <link href="https://tv.naver.com/v/31121325"/>
+        <updated>2022-11-27T08:08:25.960Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IRRIS(아이리스) - Stay W!th Me | SBS 221127 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/31121247</id>
+        <link href="https://tv.naver.com/v/31121247"/>
+        <updated>2022-11-27T08:08:25.961Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FIFTY FIFTY - Higher | SBS 221127 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/31121141</id>
@@ -101,117 +213,5 @@
         <link href="https://tv.naver.com/v/30921410"/>
         <updated>2022-11-20T08:08:26.417Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫사랑(CSR) - 러브티콘(♡TiCON) | SBS 221120 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30921409</id>
-        <link href="https://tv.naver.com/v/30921409"/>
-        <updated>2022-11-20T08:08:26.418Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICHILLIN’ - Draw | SBS 221120 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30921223</id>
-        <link href="https://tv.naver.com/v/30921223"/>
-        <updated>2022-11-20T08:08:26.419Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRENDZ(트렌드지) - VAGABOND | SBS 221120 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30921134</id>
-        <link href="https://tv.naver.com/v/30921134"/>
-        <updated>2022-11-20T08:08:26.421Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SECRET NUMBER(시크릿넘버) - TAP | SBS 221120 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30921129</id>
-        <link href="https://tv.naver.com/v/30921129"/>
-        <updated>2022-11-20T08:08:26.423Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIMERS - Fight Inside | SBS 221120 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30921027</id>
-        <link href="https://tv.naver.com/v/30921027"/>
-        <updated>2022-11-20T08:08:26.423Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TFN - AMAZON | SBS 221120 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30920960</id>
-        <link href="https://tv.naver.com/v/30920960"/>
-        <updated>2022-11-20T07:06:25.213Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이라이트 - Alone | SBS 221113 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30731070</id>
-        <link href="https://tv.naver.com/v/30731070"/>
-        <updated>2022-11-13T09:06:33.793Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LE SSERAFIM - ANTIFRAGILE | SBS 221113 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30730973</id>
-        <link href="https://tv.naver.com/v/30730973"/>
-        <updated>2022-11-13T09:06:33.794Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조유리 - Loveable | SBS 221113 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30730972</id>
-        <link href="https://tv.naver.com/v/30730972"/>
-        <updated>2022-11-13T09:06:33.825Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종현 - Lights | SBS 221113 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30730814</id>
-        <link href="https://tv.naver.com/v/30730814"/>
-        <updated>2022-11-13T08:08:58.533Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - PARTY ROCK | SBS 221113 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30730794</id>
-        <link href="https://tv.naver.com/v/30730794"/>
-        <updated>2022-11-13T08:08:58.533Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLASS:y(클라씨) - Tick Tick Boom | SBS 221113 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30730711</id>
-        <link href="https://tv.naver.com/v/30730711"/>
-        <updated>2022-11-13T08:08:58.533Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes - Hair Cut | SBS 221113 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30730629</id>
-        <link href="https://tv.naver.com/v/30730629"/>
-        <updated>2022-11-13T08:08:58.534Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUNITE - Bad Cupid | SBS 221113 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30730551</id>
-        <link href="https://tv.naver.com/v/30730551"/>
-        <updated>2022-11-13T08:08:58.534Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이처(NATURE) - LIMBO!(넘어와) | SBS 221113 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30730549</id>
-        <link href="https://tv.naver.com/v/30730549"/>
-        <updated>2022-11-13T08:08:58.534Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX(이펙스) - 사랑歌 | SBS 221113 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/30730440</id>
-        <link href="https://tv.naver.com/v/30730440"/>
-        <updated>2022-11-13T08:08:58.536Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
