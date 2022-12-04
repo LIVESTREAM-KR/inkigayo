@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2022-12-04T09:04:15.029Z</updated>
+    <updated>2022-12-04T10:05:26.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KARA - WHEN I MOVE | SBS 221204 방송]]></title>
+        <id>https://tv.naver.com/v/31321021</id>
+        <link href="https://tv.naver.com/v/31321021"/>
+        <updated>2022-12-04T10:05:26.150Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Red Velvet(레드벨벳) - Birthday | SBS 221204 방송]]></title>
         <id>https://tv.naver.com/v/31320937</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31121326"/>
         <updated>2022-11-27T08:08:25.956Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NINE.i(나인아이) - Young Boy | SBS 221127 방송]]></title>
-        <id>https://tv.naver.com/v/31121325</id>
-        <link href="https://tv.naver.com/v/31121325"/>
-        <updated>2022-11-27T08:08:25.960Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
