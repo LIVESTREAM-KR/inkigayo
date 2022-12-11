@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2022-12-11T09:04:42.344Z</updated>
+    <updated>2022-12-11T10:04:03.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민호 - 놓아줘(Chase) | SBS 221211 방송]]></title>
+        <id>https://tv.naver.com/v/31516851</id>
+        <link href="https://tv.naver.com/v/31516851"/>
+        <updated>2022-12-11T10:04:02.692Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민호 - Runaway(feat. GEMINI) | SBS 221211 방송]]></title>
         <id>https://tv.naver.com/v/31516776</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31320112"/>
         <updated>2022-12-04T08:08:21.296Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WeNU(위앤유) - 하루하루 | SBS 221204 방송]]></title>
-        <id>https://tv.naver.com/v/31320009</id>
-        <link href="https://tv.naver.com/v/31320009"/>
-        <updated>2022-12-04T08:08:21.298Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
     </entry>
 </feed>
