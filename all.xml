@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-15T08:08:24.104Z</updated>
+    <updated>2023-01-15T09:03:26.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[MONSTA X - Beautiful Liar | SBS 230115 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32394176</id>
+        <link href="https://tv.naver.com/v/32394176"/>
+        <updated>2023-01-15T09:03:25.425Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SF9 - Puzzle | SBS 230115 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32394157</id>
+        <link href="https://tv.naver.com/v/32394157"/>
+        <updated>2023-01-15T09:03:25.426Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MONSTA X - Deny | SBS 230115 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32394155</id>
+        <link href="https://tv.naver.com/v/32394155"/>
+        <updated>2023-01-15T09:03:25.444Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스(NewJeans) - INTRO + OMG | SBS 230115 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/32394050</id>
@@ -192,26 +213,5 @@
         <link href="https://tv.naver.com/v/32214660"/>
         <updated>2023-01-08T07:02:32.196Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이층버스 - 사랑이 온 거라면 좋겠다 | SBS 230108 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32214635</id>
-        <link href="https://tv.naver.com/v/32214635"/>
-        <updated>2023-01-08T07:02:32.196Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민호 - 놓아줘(Chase) | SBS 221211 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/31516851</id>
-        <link href="https://tv.naver.com/v/31516851"/>
-        <updated>2022-12-11T10:04:02.692Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민호 - Runaway(feat. GEMINI) | SBS 221211 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/31516776</id>
-        <link href="https://tv.naver.com/v/31516776"/>
-        <updated>2022-12-11T08:07:50.014Z</updated>
-        <content type="html"><![CDATA[01:53]]></content>
     </entry>
 </feed>
