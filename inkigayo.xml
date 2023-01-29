@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-01-29T06:07:45.391Z</updated>
+    <updated>2023-01-29T07:02:43.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류지현(RYU JIHYUN) - 씰룩씰룩(Green Light) | SBS 230129 방송]]></title>
+        <id>https://tv.naver.com/v/32708777</id>
+        <link href="https://tv.naver.com/v/32708777"/>
+        <updated>2023-01-29T07:02:42.850Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프림로즈 - PRIMROSE | SBS 230129 방송]]></title>
+        <id>https://tv.naver.com/v/32708759</id>
+        <link href="https://tv.naver.com/v/32708759"/>
+        <updated>2023-01-29T07:02:42.850Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MONSTA X - Beautiful Liar | SBS 230115 방송]]></title>
         <id>https://tv.naver.com/v/32394176</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32214925"/>
         <updated>2023-01-08T08:07:22.014Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Espero(에스페로) - Endless | SBS 230108 방송]]></title>
-        <id>https://tv.naver.com/v/32214825</id>
-        <link href="https://tv.naver.com/v/32214825"/>
-        <updated>2023-01-08T08:07:22.014Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이아영 - 조금 더 일찍 이별할 걸 그랬어 | SBS 230108 방송]]></title>
-        <id>https://tv.naver.com/v/32214660</id>
-        <link href="https://tv.naver.com/v/32214660"/>
-        <updated>2023-01-08T07:02:32.196Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
