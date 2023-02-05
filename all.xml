@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-05T06:07:24.855Z</updated>
+    <updated>2023-02-05T07:02:54.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[uni(유니) - DIVE | SBS 230205 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32893187</id>
+        <link href="https://tv.naver.com/v/32893187"/>
+        <updated>2023-02-05T07:02:54.269Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MONSTA X - Beautiful Liar | SBS 230129 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/32709863</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/32393141"/>
         <updated>2023-01-19T23:05:47.191Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Espero(에스페로) - Endless | SBS 230115 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32393140</id>
-        <link href="https://tv.naver.com/v/32393140"/>
-        <updated>2023-01-19T23:05:47.193Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>

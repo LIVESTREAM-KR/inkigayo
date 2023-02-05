@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-02-05T06:07:24.853Z</updated>
+    <updated>2023-02-05T07:02:54.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[uni(유니) - DIVE | SBS 230205 방송]]></title>
+        <id>https://tv.naver.com/v/32893187</id>
+        <link href="https://tv.naver.com/v/32893187"/>
+        <updated>2023-02-05T07:02:54.269Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MONSTA X - Beautiful Liar | SBS 230129 방송]]></title>
         <id>https://tv.naver.com/v/32709863</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32393141"/>
         <updated>2023-01-15T08:08:23.301Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Espero(에스페로) - Endless | SBS 230115 방송]]></title>
-        <id>https://tv.naver.com/v/32393140</id>
-        <link href="https://tv.naver.com/v/32393140"/>
-        <updated>2023-01-15T08:08:23.301Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
