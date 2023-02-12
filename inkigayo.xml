@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-02-12T09:04:26.787Z</updated>
+    <updated>2023-02-12T10:04:12.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부석순 - 파이팅 해야지(feat. 이영지) | SBS 230212 방송]]></title>
+        <id>https://tv.naver.com/v/33073543</id>
+        <link href="https://tv.naver.com/v/33073543"/>
+        <updated>2023-02-12T10:04:12.103Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부석순 - 7시에 들어줘(feat. Peder Elias) | SBS 230212 방송]]></title>
+        <id>https://tv.naver.com/v/33073461</id>
+        <link href="https://tv.naver.com/v/33073461"/>
+        <updated>2023-02-12T10:04:12.103Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127 - Ay-Yo | SBS 230212 방송]]></title>
         <id>https://tv.naver.com/v/33073333</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32893460"/>
         <updated>2023-02-05T08:07:54.904Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프림로즈 - PRIMROSE | SBS 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32893400</id>
-        <link href="https://tv.naver.com/v/32893400"/>
-        <updated>2023-02-05T08:07:54.904Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류지현(RYU JIHYUN) - 씰룩씰룩(Green Light) | SBS 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32893280</id>
-        <link href="https://tv.naver.com/v/32893280"/>
-        <updated>2023-02-05T08:07:54.904Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
