@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-02-26T06:08:12.223Z</updated>
+    <updated>2023-02-26T07:03:48.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박로시 - Gossip (feat. 유명한 아이) | SBS 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33479334</id>
+        <link href="https://tv.naver.com/v/33479334"/>
+        <updated>2023-02-26T07:03:48.385Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키(KEY) - Killer | SBS 230219 방송]]></title>
         <id>https://tv.naver.com/v/33272176</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33072313"/>
         <updated>2023-02-12T07:03:28.260Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARTBEAT(아트비트) - 아프로디테 | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33072258</id>
-        <link href="https://tv.naver.com/v/33072258"/>
-        <updated>2023-02-12T07:03:28.260Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
 </feed>
