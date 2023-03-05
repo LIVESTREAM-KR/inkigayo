@@ -2,8 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-05T07:03:49.765Z</updated>
+    <updated>2023-03-05T08:08:09.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[황민현 - Hidden Side | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33677204</id>
+        <link href="https://tv.naver.com/v/33677204"/>
+        <updated>2023-03-05T08:08:08.681Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황민현 - Honest | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33677203</id>
+        <link href="https://tv.naver.com/v/33677203"/>
+        <updated>2023-03-05T08:08:08.681Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예성 - Floral Sense | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33677014</id>
+        <link href="https://tv.naver.com/v/33677014"/>
+        <updated>2023-03-05T08:08:08.693Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더보이즈(THE BOYZ) - ROAR | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33676921</id>
+        <link href="https://tv.naver.com/v/33676921"/>
+        <updated>2023-03-05T08:08:08.693Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박우진(AB6IX) - Top Tier | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33676920</id>
+        <link href="https://tv.naver.com/v/33676920"/>
+        <updated>2023-03-05T08:08:08.694Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STAYC - Teddy Bear | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33676817</id>
+        <link href="https://tv.naver.com/v/33676817"/>
+        <updated>2023-03-05T08:08:08.694Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TNX - Love or Die | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33676605</id>
+        <link href="https://tv.naver.com/v/33676605"/>
+        <updated>2023-03-05T08:08:08.695Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - Sweet Juice | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33676579</id>
+        <link href="https://tv.naver.com/v/33676579"/>
+        <updated>2023-03-05T08:08:08.695Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8TURN(에잇턴) - WE | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33676472</id>
+        <link href="https://tv.naver.com/v/33676472"/>
+        <updated>2023-03-05T08:08:08.695Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트라이비(TRI.BE) - WE ARE YOUNG | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33676471</id>
+        <link href="https://tv.naver.com/v/33676471"/>
+        <updated>2023-03-05T08:08:08.703Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIFTY FIFTY - Cupid | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33676368</id>
+        <link href="https://tv.naver.com/v/33676368"/>
+        <updated>2023-03-05T08:08:08.705Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tripleS(트리플에스) - Rising | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33676286</id>
+        <link href="https://tv.naver.com/v/33676286"/>
+        <updated>2023-03-05T08:08:08.706Z</updated>
+        <content type="html"><![CDATA[02:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리사 - 부탁 | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33676177</id>
+        <link href="https://tv.naver.com/v/33676177"/>
+        <updated>2023-03-05T08:08:08.708Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이찬원 - 풍등 | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33676018</id>
+        <link href="https://tv.naver.com/v/33676018"/>
+        <updated>2023-03-05T08:08:08.719Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OnlyOneOf(온리원오브) - seOul drift | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33675999</id>
+        <link href="https://tv.naver.com/v/33675999"/>
+        <updated>2023-03-05T08:08:08.720Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - Honestly | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33675998</id>
+        <link href="https://tv.naver.com/v/33675998"/>
+        <updated>2023-03-05T08:08:08.722Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈(THE BOYZ) - Awake | SBS 230226 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/33481260</id>
@@ -101,117 +213,5 @@
         <link href="https://tv.naver.com/v/33479438"/>
         <updated>2023-02-26T08:08:16.818Z</updated>
         <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HAWW(하우) - How Are You | SBS 230226 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33479437</id>
-        <link href="https://tv.naver.com/v/33479437"/>
-        <updated>2023-02-26T08:08:16.818Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박로시 - Gossip (feat. 유명한 아이) | SBS 230226 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33479334</id>
-        <link href="https://tv.naver.com/v/33479334"/>
-        <updated>2023-02-26T07:03:48.385Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키(KEY) - Killer | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33272176</id>
-        <link href="https://tv.naver.com/v/33272176"/>
-        <updated>2023-02-19T08:08:11.661Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STAYC - Teddy Bear | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33272083</id>
-        <link href="https://tv.naver.com/v/33272083"/>
-        <updated>2023-02-19T08:08:11.661Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - Sweet Juice | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33271985</id>
-        <link href="https://tv.naver.com/v/33271985"/>
-        <updated>2023-02-19T08:08:11.661Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - Intro : Save Me | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33271762</id>
-        <link href="https://tv.naver.com/v/33271762"/>
-        <updated>2023-02-19T08:08:11.664Z</updated>
-        <content type="html"><![CDATA[01:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TNX - Love or Die | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33271761</id>
-        <link href="https://tv.naver.com/v/33271761"/>
-        <updated>2023-02-19T08:08:11.666Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TNX - I Need U | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33271759</id>
-        <link href="https://tv.naver.com/v/33271759"/>
-        <updated>2023-02-19T08:08:11.666Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - Honestly | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33271757</id>
-        <link href="https://tv.naver.com/v/33271757"/>
-        <updated>2023-02-19T08:08:11.667Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남동현(Nam Dong Hyun) - Drivers License | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33271545</id>
-        <link href="https://tv.naver.com/v/33271545"/>
-        <updated>2023-02-19T08:08:11.668Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트라이비(TRI.BE) - WE ARE YOUNG | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33271448</id>
-        <link href="https://tv.naver.com/v/33271448"/>
-        <updated>2023-02-19T08:08:11.669Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARTBEAT(아트비트) - 아프로디테 | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33271220</id>
-        <link href="https://tv.naver.com/v/33271220"/>
-        <updated>2023-02-19T08:08:11.670Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임윤성 - 세상의 끝에서 | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33271196</id>
-        <link href="https://tv.naver.com/v/33271196"/>
-        <updated>2023-02-19T08:08:11.673Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tripleS - Rising | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33271071</id>
-        <link href="https://tv.naver.com/v/33271071"/>
-        <updated>2023-02-19T08:08:11.679Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강버터(Kang Butter) - 분명한 건 널 사랑했단 거야 | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33270870</id>
-        <link href="https://tv.naver.com/v/33270870"/>
-        <updated>2023-02-19T07:03:37.315Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강예슬 - 사랑의 포인트 | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33270869</id>
-        <link href="https://tv.naver.com/v/33270869"/>
-        <updated>2023-02-19T07:03:37.315Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
     </entry>
 </feed>
