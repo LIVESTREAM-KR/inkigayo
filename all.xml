@@ -2,8 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-16T07:03:05.961Z</updated>
+    <updated>2023-04-16T08:07:02.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[지수(JISOO) - 꽃(FLOWER) | SBS 23016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35000467</id>
+        <link href="https://tv.naver.com/v/35000467"/>
+        <updated>2023-04-16T08:07:01.702Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IVE - INTRO+I AM | SBS 23016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35000358</id>
+        <link href="https://tv.naver.com/v/35000358"/>
+        <updated>2023-04-16T08:07:01.703Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IVE - Kitsch | SBS 23016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35000220</id>
+        <link href="https://tv.naver.com/v/35000220"/>
+        <updated>2023-04-16T08:07:01.706Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박지훈 - Blank Effect (무표정) | SBS 23016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35000097</id>
+        <link href="https://tv.naver.com/v/35000097"/>
+        <updated>2023-04-16T08:07:01.706Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NMIXX - Love Me Like This | SBS 23016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35000093</id>
+        <link href="https://tv.naver.com/v/35000093"/>
+        <updated>2023-04-16T08:07:01.706Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이채연 - KNOCK | SBS 23016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34999872</id>
+        <link href="https://tv.naver.com/v/34999872"/>
+        <updated>2023-04-16T08:07:01.708Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김우석 - Dawn| SBS 23016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34999870</id>
+        <link href="https://tv.naver.com/v/34999870"/>
+        <updated>2023-04-16T08:07:01.709Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케플러(Kep1er) - Giddy | SBS 23016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34999735</id>
+        <link href="https://tv.naver.com/v/34999735"/>
+        <updated>2023-04-16T08:07:01.711Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billlie - EUNOIA | SBS 23016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34999626</id>
+        <link href="https://tv.naver.com/v/34999626"/>
+        <updated>2023-04-16T08:07:01.713Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예은(YEEUN) - Cherry Coke | SBS 23016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34999508</id>
+        <link href="https://tv.naver.com/v/34999508"/>
+        <updated>2023-04-16T08:07:01.730Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫사랑(CSR) - 빛을 따라서(Shining Bright) | SBS 23016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34999395</id>
+        <link href="https://tv.naver.com/v/34999395"/>
+        <updated>2023-04-16T08:07:01.731Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICHILLIN’(아이칠린) - Alarm | SBS 23016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34999284</id>
+        <link href="https://tv.naver.com/v/34999284"/>
+        <updated>2023-04-16T08:07:01.732Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAXY(크랙시) - NUGUDOM | SBS 23016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34999283</id>
+        <link href="https://tv.naver.com/v/34999283"/>
+        <updated>2023-04-16T08:07:01.733Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers - 도깨비집(TRICKY HOUSE) | SBS 23016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34999154</id>
+        <link href="https://tv.naver.com/v/34999154"/>
+        <updated>2023-04-16T08:07:01.734Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이아영 - 마지막이란 걸 알면서도 | SBS 23016 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/34999026</id>
@@ -115,103 +213,5 @@
         <link href="https://tv.naver.com/v/34775461"/>
         <updated>2023-04-09T08:05:24.057Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X:IN - Keeping the fire | SBS 230409 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34775344</id>
-        <link href="https://tv.naver.com/v/34775344"/>
-        <updated>2023-04-09T07:03:06.275Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지민 - Like Crazy | SBS 230402 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34554762</id>
-        <link href="https://tv.naver.com/v/34554762"/>
-        <updated>2023-04-02T08:06:43.262Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지민 - Set Me Free Pt.2 | SBS 230402 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34554759</id>
-        <link href="https://tv.naver.com/v/34554759"/>
-        <updated>2023-04-02T08:06:43.266Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마마무+ - GGBB | SBS 230402 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34554607</id>
-        <link href="https://tv.naver.com/v/34554607"/>
-        <updated>2023-04-02T08:06:43.268Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX - Love Me Like This | SBS 230402 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34554606</id>
-        <link href="https://tv.naver.com/v/34554606"/>
-        <updated>2023-04-02T08:06:43.269Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마마무+ - INTRO : 나쁜놈 | SBS 230402 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34554505</id>
-        <link href="https://tv.naver.com/v/34554505"/>
-        <updated>2023-04-02T08:06:43.270Z</updated>
-        <content type="html"><![CDATA[00:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뱀뱀(BamBam) - Sour & Sweet | SBS 230402 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34554502</id>
-        <link href="https://tv.naver.com/v/34554502"/>
-        <updated>2023-04-02T08:06:43.271Z</updated>
-        <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재환 - 봄바람 | SBS 230402 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34554500</id>
-        <link href="https://tv.naver.com/v/34554500"/>
-        <updated>2023-04-02T08:06:43.274Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - Groovy | SBS 230402 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34554497</id>
-        <link href="https://tv.naver.com/v/34554497"/>
-        <updated>2023-04-02T08:06:43.275Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billlie - EUNOIA | SBS 230402 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34554310</id>
-        <link href="https://tv.naver.com/v/34554310"/>
-        <updated>2023-04-02T08:06:43.276Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAXY(크랙시) - NUGUDOM | SBS 230402 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34554206</id>
-        <link href="https://tv.naver.com/v/34554206"/>
-        <updated>2023-04-02T08:06:43.280Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KINGDOM(킹덤) - 혼(魂; Dystopia) | SBS 230402 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34554202</id>
-        <link href="https://tv.naver.com/v/34554202"/>
-        <updated>2023-04-02T08:06:43.281Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICHILLIN’(아이칠린) - Alarm | SBS 230402 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34554115</id>
-        <link href="https://tv.naver.com/v/34554115"/>
-        <updated>2023-04-02T08:06:43.281Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫사랑(CSR) - 빛을 따라서(Shining Bright) | SBS 230402 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34554038</id>
-        <link href="https://tv.naver.com/v/34554038"/>
-        <updated>2023-04-02T08:06:43.282Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
