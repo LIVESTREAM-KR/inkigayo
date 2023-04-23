@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-04-23T06:07:36.168Z</updated>
+    <updated>2023-04-23T07:03:34.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앨리스(ALICE) - SHOW DOWN | SBS 230423 방송]]></title>
+        <id>https://tv.naver.com/v/35235345</id>
+        <link href="https://tv.naver.com/v/35235345"/>
+        <updated>2023-04-23T07:03:33.265Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예빈나다 - 봄의 고백 | SBS 230423 방송]]></title>
+        <id>https://tv.naver.com/v/35235342</id>
+        <link href="https://tv.naver.com/v/35235342"/>
+        <updated>2023-04-23T07:03:33.278Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지수(JISOO) - 꽃(FLOWER) | SBS 230416 방송]]></title>
         <id>https://tv.naver.com/v/35000467</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/34775694"/>
         <updated>2023-04-09T08:05:24.051Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아리(Ahri) - Eyes On Me | SBS 230409 방송]]></title>
-        <id>https://tv.naver.com/v/34775561</id>
-        <link href="https://tv.naver.com/v/34775561"/>
-        <updated>2023-04-09T08:05:24.055Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MC김지은×형원 - 봄 사랑 벚꽃 말고 | SBS 230409 방송]]></title>
-        <id>https://tv.naver.com/v/34775461</id>
-        <link href="https://tv.naver.com/v/34775461"/>
-        <updated>2023-04-09T08:05:24.057Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
