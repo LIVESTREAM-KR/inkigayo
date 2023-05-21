@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-05-21T06:05:48.001Z</updated>
+    <updated>2023-05-21T07:02:51.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들 - 퀸카(Queencard) | SBS 230521 방송]]></title>
+        <id>https://tv.naver.com/v/36148833</id>
+        <link href="https://tv.naver.com/v/36148833"/>
+        <updated>2023-05-21T07:02:50.788Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aespa - Spicy | SBS 230521 방송]]></title>
+        <id>https://tv.naver.com/v/36148698</id>
+        <link href="https://tv.naver.com/v/36148698"/>
+        <updated>2023-05-21T07:02:50.794Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LE SSERAFIM - UNFORGIVEN(feat. Nile Rodgers) | SBS 230521 방송]]></title>
+        <id>https://tv.naver.com/v/36148694</id>
+        <link href="https://tv.naver.com/v/36148694"/>
+        <updated>2023-05-21T07:02:50.795Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미주(MIJOO) - Movie Star | SBS 230521 방송]]></title>
+        <id>https://tv.naver.com/v/36148544</id>
+        <link href="https://tv.naver.com/v/36148544"/>
+        <updated>2023-05-21T07:02:50.797Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원어스(ONEUS) - ERASE ME | SBS 230521 방송]]></title>
+        <id>https://tv.naver.com/v/36148424</id>
+        <link href="https://tv.naver.com/v/36148424"/>
+        <updated>2023-05-21T07:02:50.799Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베리베리(VERIVERY) - Crazy Like That | SBS 230521 방송]]></title>
+        <id>https://tv.naver.com/v/36148423</id>
+        <link href="https://tv.naver.com/v/36148423"/>
+        <updated>2023-05-21T07:02:50.801Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BAE173 - GT(Prod. KENZIE) | SBS 230521 방송]]></title>
+        <id>https://tv.naver.com/v/36148070</id>
+        <link href="https://tv.naver.com/v/36148070"/>
+        <updated>2023-05-21T07:02:50.803Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATBO - Next to Me | SBS 230521 방송]]></title>
+        <id>https://tv.naver.com/v/36148044</id>
+        <link href="https://tv.naver.com/v/36148044"/>
+        <updated>2023-05-21T07:02:50.811Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICHILLIN’(아이칠린) - Siren | SBS 230521 방송]]></title>
+        <id>https://tv.naver.com/v/36148042</id>
+        <link href="https://tv.naver.com/v/36148042"/>
+        <updated>2023-05-21T07:02:50.812Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YOUNITE - WATERFALL | SBS 230521 방송]]></title>
+        <id>https://tv.naver.com/v/36147910</id>
+        <link href="https://tv.naver.com/v/36147910"/>
+        <updated>2023-05-21T07:02:50.814Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xdinary Heroes - Dear H. | SBS 230521 방송]]></title>
         <id>https://tv.naver.com/v/36147730</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/35909103"/>
         <updated>2023-05-14T08:05:40.225Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민민(MinMin) - Take Me | SBS 230514 방송]]></title>
-        <id>https://tv.naver.com/v/35908999</id>
-        <link href="https://tv.naver.com/v/35908999"/>
-        <updated>2023-05-14T08:05:40.225Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIMERS - Bubble | SBS 230514 방송]]></title>
-        <id>https://tv.naver.com/v/35908997</id>
-        <link href="https://tv.naver.com/v/35908997"/>
-        <updated>2023-05-14T08:05:40.226Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADYA - Per | SBS 230514 방송]]></title>
-        <id>https://tv.naver.com/v/35908817</id>
-        <link href="https://tv.naver.com/v/35908817"/>
-        <updated>2023-05-14T07:02:47.403Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장혜리 - 사랑 그게 뭔데 | SBS 230514 방송]]></title>
-        <id>https://tv.naver.com/v/35908708</id>
-        <link href="https://tv.naver.com/v/35908708"/>
-        <updated>2023-05-14T07:02:47.403Z</updated>
-        <content type="html"><![CDATA[02:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴(SEVENTEEN) - My Life | SBS 230507 방송]]></title>
-        <id>https://tv.naver.com/v/35675616</id>
-        <link href="https://tv.naver.com/v/35675616"/>
-        <updated>2023-05-07T07:02:57.205Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비 - 나의 바람(Wind And Wish) | SBS 230507 방송]]></title>
-        <id>https://tv.naver.com/v/35675590</id>
-        <link href="https://tv.naver.com/v/35675590"/>
-        <updated>2023-05-07T07:02:57.205Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 도재정 - Perfume | SBS 230507 방송]]></title>
-        <id>https://tv.naver.com/v/35675495</id>
-        <link href="https://tv.naver.com/v/35675495"/>
-        <updated>2023-05-07T07:02:57.205Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LE SSERAFIM - INTRO+UNFORGIVEN(feat. Nile Rodgers) | SBS 230507 방송]]></title>
-        <id>https://tv.naver.com/v/35675401</id>
-        <link href="https://tv.naver.com/v/35675401"/>
-        <updated>2023-05-07T07:02:57.205Z</updated>
-        <content type="html"><![CDATA[04:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 도재정 - Kiss | SBS 230507 방송]]></title>
-        <id>https://tv.naver.com/v/35675324</id>
-        <link href="https://tv.naver.com/v/35675324"/>
-        <updated>2023-05-07T07:02:57.205Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LE SSERAFIM - No-Return(Into the unknown) | SBS 230507 방송]]></title>
-        <id>https://tv.naver.com/v/35675303</id>
-        <link href="https://tv.naver.com/v/35675303"/>
-        <updated>2023-05-07T07:02:57.206Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
 </feed>
