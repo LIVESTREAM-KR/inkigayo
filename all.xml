@@ -2,8 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-04T08:07:07.144Z</updated>
+    <updated>2023-06-04T09:03:10.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Stray Kids - 특 | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36632922</id>
+        <link href="https://tv.naver.com/v/36632922"/>
+        <updated>2023-06-04T09:03:09.698Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들 - 퀸카(Queencard) | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36632914</id>
+        <link href="https://tv.naver.com/v/36632914"/>
+        <updated>2023-06-04T09:03:09.698Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조미 - Mañana(Our Drama)(feat. 은혁)  | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36632661</id>
+        <link href="https://tv.naver.com/v/36632661"/>
+        <updated>2023-06-04T09:03:09.698Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ENHYPEN(엔하이픈) - Bite Me | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36632485</id>
+        <link href="https://tv.naver.com/v/36632485"/>
+        <updated>2023-06-04T09:03:09.698Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주헌 - FREEDOM | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36632462</id>
+        <link href="https://tv.naver.com/v/36632462"/>
+        <updated>2023-06-04T09:03:09.698Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AB6IX(에이비식스) - LOSER | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36632338</id>
+        <link href="https://tv.naver.com/v/36632338"/>
+        <updated>2023-06-04T09:03:09.700Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KARD - ICKY | SBS 230604 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/36632121</id>
@@ -171,47 +213,5 @@
         <link href="https://tv.naver.com/v/36396103"/>
         <updated>2023-05-28T08:05:20.557Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블리처스(BLITZERS) - 마카레나(Macarena)- | SBS 230528 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36396014</id>
-        <link href="https://tv.naver.com/v/36396014"/>
-        <updated>2023-05-28T07:03:15.914Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SECRET NUMBER(시크릿넘버) - 독사(DOXA) | SBS 230528 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36395920</id>
-        <link href="https://tv.naver.com/v/36395920"/>
-        <updated>2023-05-28T07:03:15.921Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙스완 - Karma | SBS 230528 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36395799</id>
-        <link href="https://tv.naver.com/v/36395799"/>
-        <updated>2023-05-28T07:03:15.921Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADYA - Per | SBS 230528 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36395798</id>
-        <link href="https://tv.naver.com/v/36395798"/>
-        <updated>2023-05-28T07:03:15.921Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(여자)아이들 - 퀸카(Queencard) | SBS 230521 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36148833</id>
-        <link href="https://tv.naver.com/v/36148833"/>
-        <updated>2023-05-21T07:02:50.788Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aespa - Spicy | SBS 230521 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36148698</id>
-        <link href="https://tv.naver.com/v/36148698"/>
-        <updated>2023-05-21T07:02:50.794Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
