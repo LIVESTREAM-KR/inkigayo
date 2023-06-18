@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-06-18T06:07:36.375Z</updated>
+    <updated>2023-06-18T07:03:33.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37112957</id>
+        <link href="https://tv.naver.com/v/37112957"/>
+        <updated>2023-06-18T07:03:33.123Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태용 - 샤랄라(SHALALA) | SBS 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37112846</id>
+        <link href="https://tv.naver.com/v/37112846"/>
+        <updated>2023-06-18T07:03:33.125Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ENHYPEN(엔하이픈) - Sacrifice(Eat Me Up) | SBS 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37112844</id>
+        <link href="https://tv.naver.com/v/37112844"/>
+        <updated>2023-06-18T07:03:33.139Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로미스나인(fromis_9) - #menow | SBS 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37112753</id>
+        <link href="https://tv.naver.com/v/37112753"/>
+        <updated>2023-06-18T07:03:33.148Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[렌 - Ready to Move | SBS 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37112645</id>
+        <link href="https://tv.naver.com/v/37112645"/>
+        <updated>2023-06-18T07:03:33.164Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIX(씨아이엑스) - Save me, Kill me | SBS 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37112643</id>
+        <link href="https://tv.naver.com/v/37112643"/>
+        <updated>2023-06-18T07:03:33.165Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다크비(DKB) - I Need Love | SBS 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37112425</id>
+        <link href="https://tv.naver.com/v/37112425"/>
+        <updated>2023-06-18T07:03:33.166Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NINE to SIX - Don’t Call Me | SBS 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37112311</id>
+        <link href="https://tv.naver.com/v/37112311"/>
+        <updated>2023-06-18T07:03:33.170Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P1Harmony - JUMP | SBS 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37112235</id>
+        <link href="https://tv.naver.com/v/37112235"/>
+        <updated>2023-06-18T07:03:33.170Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SECRET NUMBER(시크릿넘버) - 독사(DOXA) | SBS 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37112234</id>
+        <link href="https://tv.naver.com/v/37112234"/>
+        <updated>2023-06-18T07:03:33.178Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LUN8(루네이트) - Wild Heart | SBS 230618 방송]]></title>
         <id>https://tv.naver.com/v/37112092</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/36869267"/>
         <updated>2023-06-11T07:02:50.074Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATBO - BOUNCE | SBS 230611 방송]]></title>
-        <id>https://tv.naver.com/v/36869155</id>
-        <link href="https://tv.naver.com/v/36869155"/>
-        <updated>2023-06-11T07:02:50.074Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙스완 - Karma | SBS 230611 방송]]></title>
-        <id>https://tv.naver.com/v/36869047</id>
-        <link href="https://tv.naver.com/v/36869047"/>
-        <updated>2023-06-11T07:02:50.074Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박로시 - LUV Myself | SBS 230611 방송]]></title>
-        <id>https://tv.naver.com/v/36869046</id>
-        <link href="https://tv.naver.com/v/36869046"/>
-        <updated>2023-06-11T07:02:50.080Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray Kids - 특 | SBS 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36632922</id>
-        <link href="https://tv.naver.com/v/36632922"/>
-        <updated>2023-06-04T09:03:09.698Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(여자)아이들 - 퀸카(Queencard) | SBS 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36632914</id>
-        <link href="https://tv.naver.com/v/36632914"/>
-        <updated>2023-06-04T09:03:09.698Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조미 - Mañana(Our Drama)(feat. 은혁)  | SBS 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36632661</id>
-        <link href="https://tv.naver.com/v/36632661"/>
-        <updated>2023-06-04T09:03:09.698Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENHYPEN(엔하이픈) - Bite Me | SBS 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36632485</id>
-        <link href="https://tv.naver.com/v/36632485"/>
-        <updated>2023-06-04T09:03:09.698Z</updated>
-        <content type="html"><![CDATA[02:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주헌 - FREEDOM | SBS 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36632462</id>
-        <link href="https://tv.naver.com/v/36632462"/>
-        <updated>2023-06-04T09:03:09.698Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX(에이비식스) - LOSER | SBS 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36632338</id>
-        <link href="https://tv.naver.com/v/36632338"/>
-        <updated>2023-06-04T09:03:09.700Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KARD - ICKY | SBS 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36632121</id>
-        <link href="https://tv.naver.com/v/36632121"/>
-        <updated>2023-06-04T08:07:06.535Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
     </entry>
 </feed>
