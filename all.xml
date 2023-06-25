@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-25T08:08:31.715Z</updated>
+    <updated>2023-06-25T09:04:34.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[NCT DREAM - Broken Melodies | SBS 230625 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/37351489</id>
+        <link href="https://tv.naver.com/v/37351489"/>
+        <updated>2023-06-25T09:04:33.740Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 230625 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/37351218</id>
+        <link href="https://tv.naver.com/v/37351218"/>
+        <updated>2023-06-25T09:04:33.751Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강다니엘 - SOS | SBS 230625 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/37351087</id>
+        <link href="https://tv.naver.com/v/37351087"/>
+        <updated>2023-06-25T09:04:33.752Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로미스나인(fromis_9) - #menow | SBS 230625 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/37351084</id>
+        <link href="https://tv.naver.com/v/37351084"/>
+        <updated>2023-06-25T09:04:33.755Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김재환 - 개이득(feat. BOBBY) | SBS 230625 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/37350996</id>
@@ -185,33 +213,5 @@
         <link href="https://tv.naver.com/v/37111902"/>
         <updated>2023-06-18T06:07:35.744Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백예빈 - 비행구름  | SBS 230618 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/37111782</id>
-        <link href="https://tv.naver.com/v/37111782"/>
-        <updated>2023-06-18T06:07:35.749Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FANTASY BOYS(판타지보이즈) - Gesture | SBS 230618 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/37111780</id>
-        <link href="https://tv.naver.com/v/37111780"/>
-        <updated>2023-06-18T06:07:35.749Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VAV - Designer | SBS 230618 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/37111610</id>
-        <link href="https://tv.naver.com/v/37111610"/>
-        <updated>2023-06-18T06:07:35.750Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박로시 - LUV Myself | SBS 230618 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/37111588</id>
-        <link href="https://tv.naver.com/v/37111588"/>
-        <updated>2023-06-18T06:07:35.751Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
