@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-07-02T07:03:18.581Z</updated>
+    <updated>2023-07-02T08:08:27.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SHINee(샤이니) - JUICE | SBS 230702 방송]]></title>
+        <id>https://tv.naver.com/v/37588841</id>
+        <link href="https://tv.naver.com/v/37588841"/>
+        <updated>2023-07-02T08:08:26.724Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHINee(샤이니) - HARD | SBS 230702 방송]]></title>
+        <id>https://tv.naver.com/v/37588732</id>
+        <link href="https://tv.naver.com/v/37588732"/>
+        <updated>2023-07-02T08:08:26.727Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TREASURE - MOVE(T5) | SBS 230702 방송]]></title>
+        <id>https://tv.naver.com/v/37588730</id>
+        <link href="https://tv.naver.com/v/37588730"/>
+        <updated>2023-07-02T08:08:26.729Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 230702 방송]]></title>
+        <id>https://tv.naver.com/v/37588531</id>
+        <link href="https://tv.naver.com/v/37588531"/>
+        <updated>2023-07-02T08:08:26.731Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김성규 - Small Talk | SBS 230702 방송]]></title>
+        <id>https://tv.naver.com/v/37588419</id>
+        <link href="https://tv.naver.com/v/37588419"/>
+        <updated>2023-07-02T08:08:26.732Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김재환 - 개이득(feat. BOBBY) | SBS 230702 방송]]></title>
+        <id>https://tv.naver.com/v/37588321</id>
+        <link href="https://tv.naver.com/v/37588321"/>
+        <updated>2023-07-02T08:08:26.734Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YENA(최예나) - Hate Rodrigo(feat. 우기((여자)아이들)) | SBS 230702 방송]]></title>
+        <id>https://tv.naver.com/v/37588222</id>
+        <link href="https://tv.naver.com/v/37588222"/>
+        <updated>2023-07-02T08:08:26.737Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유키스(UKISS) - 갈래!(The Wonderful Escape) | SBS 230702 방송]]></title>
+        <id>https://tv.naver.com/v/37588081</id>
+        <link href="https://tv.naver.com/v/37588081"/>
+        <updated>2023-07-02T08:08:26.740Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한승우 - Dive Into | SBS 230702 방송]]></title>
+        <id>https://tv.naver.com/v/37588079</id>
+        <link href="https://tv.naver.com/v/37588079"/>
+        <updated>2023-07-02T08:08:26.741Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위아이(WEi) - 질주(OVERDRIVE) | SBS 230702 방송]]></title>
         <id>https://tv.naver.com/v/37587971</id>
@@ -151,68 +214,5 @@
         <link href="https://tv.naver.com/v/37350139"/>
         <updated>2023-06-25T08:08:30.882Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUN8(루네이트) - Wild Heart | SBS 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37350032</id>
-        <link href="https://tv.naver.com/v/37350032"/>
-        <updated>2023-06-25T08:08:30.883Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We;Na - QUEEN | SBS 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37350030</id>
-        <link href="https://tv.naver.com/v/37350030"/>
-        <updated>2023-06-25T08:08:30.884Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lapillus(라필루스) - Who’s Next | SBS 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37349900</id>
-        <link href="https://tv.naver.com/v/37349900"/>
-        <updated>2023-06-25T08:08:30.886Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2Z - Like A Movie | SBS 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37349803</id>
-        <link href="https://tv.naver.com/v/37349803"/>
-        <updated>2023-06-25T08:08:30.887Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 230618 방송]]></title>
-        <id>https://tv.naver.com/v/37112957</id>
-        <link href="https://tv.naver.com/v/37112957"/>
-        <updated>2023-06-18T07:03:33.123Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태용 - 샤랄라(SHALALA) | SBS 230618 방송]]></title>
-        <id>https://tv.naver.com/v/37112846</id>
-        <link href="https://tv.naver.com/v/37112846"/>
-        <updated>2023-06-18T07:03:33.125Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENHYPEN(엔하이픈) - Sacrifice(Eat Me Up) | SBS 230618 방송]]></title>
-        <id>https://tv.naver.com/v/37112844</id>
-        <link href="https://tv.naver.com/v/37112844"/>
-        <updated>2023-06-18T07:03:33.139Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로미스나인(fromis_9) - #menow | SBS 230618 방송]]></title>
-        <id>https://tv.naver.com/v/37112753</id>
-        <link href="https://tv.naver.com/v/37112753"/>
-        <updated>2023-06-18T07:03:33.148Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[렌 - Ready to Move | SBS 230618 방송]]></title>
-        <id>https://tv.naver.com/v/37112645</id>
-        <link href="https://tv.naver.com/v/37112645"/>
-        <updated>2023-06-18T07:03:33.164Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
