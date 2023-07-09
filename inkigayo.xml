@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-07-09T06:09:02.902Z</updated>
+    <updated>2023-07-09T07:04:04.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Lapillus(라필루스) - Who’s Next | SBS 230709 방송]]></title>
+        <id>https://tv.naver.com/v/37837442</id>
+        <link href="https://tv.naver.com/v/37837442"/>
+        <updated>2023-07-09T07:04:03.579Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8TURN(에잇턴) - EXCEL | SBS 230709 방송]]></title>
+        <id>https://tv.naver.com/v/37837300</id>
+        <link href="https://tv.naver.com/v/37837300"/>
+        <updated>2023-07-09T07:04:03.580Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Queenz Eye - UN-NORMAL | SBS 230709 방송]]></title>
+        <id>https://tv.naver.com/v/37837175</id>
+        <link href="https://tv.naver.com/v/37837175"/>
+        <updated>2023-07-09T07:04:03.587Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[+(KR)ystal Eyes - Touch | SBS 230709 방송]]></title>
+        <id>https://tv.naver.com/v/37836933</id>
+        <link href="https://tv.naver.com/v/37836933"/>
+        <updated>2023-07-09T07:04:03.589Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LUN8(루네이트) - Wild Heart | SBS 230709 방송]]></title>
+        <id>https://tv.naver.com/v/37836930</id>
+        <link href="https://tv.naver.com/v/37836930"/>
+        <updated>2023-07-09T07:04:03.594Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KISS OF LIFE - 쉿(Shhh) | SBS 230709 방송]]></title>
+        <id>https://tv.naver.com/v/37836927</id>
+        <link href="https://tv.naver.com/v/37836927"/>
+        <updated>2023-07-09T07:04:03.595Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남동현 - 해적이 되고 싶었던 소년 | SBS 230709 방송]]></title>
+        <id>https://tv.naver.com/v/37836595</id>
+        <link href="https://tv.naver.com/v/37836595"/>
+        <updated>2023-07-09T07:04:03.599Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김소연 - 또또 | SBS 230709 방송]]></title>
+        <id>https://tv.naver.com/v/37836503</id>
+        <link href="https://tv.naver.com/v/37836503"/>
+        <updated>2023-07-09T07:04:03.602Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SHINee(샤이니) - JUICE | SBS 230702 방송]]></title>
         <id>https://tv.naver.com/v/37588841</id>
@@ -157,62 +213,6 @@
         <id>https://tv.naver.com/v/37350996</id>
         <link href="https://tv.naver.com/v/37350996"/>
         <updated>2023-06-25T08:08:30.876Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웻보이X조현아 - 잔인한 여자, 철없는 남자 | SBS 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37350872</id>
-        <link href="https://tv.naver.com/v/37350872"/>
-        <updated>2023-06-25T08:08:30.876Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다크비(DKB) - I Need Love | SBS 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37350746</id>
-        <link href="https://tv.naver.com/v/37350746"/>
-        <updated>2023-06-25T08:08:30.878Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOYNEXTDOOR - Serenade | SBS 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37350604</id>
-        <link href="https://tv.naver.com/v/37350604"/>
-        <updated>2023-06-25T08:08:30.878Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE NEW SIX - Kick It 4 Now | SBS 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37350475</id>
-        <link href="https://tv.naver.com/v/37350475"/>
-        <updated>2023-06-25T08:08:30.879Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[&TEAM - FIREWORK(Korean ver.) | SBS 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37350371</id>
-        <link href="https://tv.naver.com/v/37350371"/>
-        <updated>2023-06-25T08:08:30.880Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[&TEAM - Scent of you(Korean ver.) | SBS 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37350369</id>
-        <link href="https://tv.naver.com/v/37350369"/>
-        <updated>2023-06-25T08:08:30.880Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VAV - Designer | SBS 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37350163</id>
-        <link href="https://tv.naver.com/v/37350163"/>
-        <updated>2023-06-25T08:08:30.881Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드(The Wind) - 다시 만나 | SBS 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37350139</id>
-        <link href="https://tv.naver.com/v/37350139"/>
-        <updated>2023-06-25T08:08:30.882Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
