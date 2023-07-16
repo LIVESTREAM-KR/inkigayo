@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-07-16T08:08:20.243Z</updated>
+    <updated>2023-07-16T09:03:35.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EXO - Cream Soda | SBS 230716 방송]]></title>
+        <id>https://tv.naver.com/v/38096244</id>
+        <link href="https://tv.naver.com/v/38096244"/>
+        <updated>2023-07-16T09:03:34.714Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스(NewJeans) - Super Shy | SBS 230716 방송]]></title>
+        <id>https://tv.naver.com/v/38096134</id>
+        <link href="https://tv.naver.com/v/38096134"/>
+        <updated>2023-07-16T09:03:34.748Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴진스(NewJeans) - New Jeans | SBS 230716 방송]]></title>
         <id>https://tv.naver.com/v/38096017</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/37836927"/>
         <updated>2023-07-09T07:04:03.595Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남동현 - 해적이 되고 싶었던 소년 | SBS 230709 방송]]></title>
-        <id>https://tv.naver.com/v/37836595</id>
-        <link href="https://tv.naver.com/v/37836595"/>
-        <updated>2023-07-09T07:04:03.599Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소연 - 또또 | SBS 230709 방송]]></title>
-        <id>https://tv.naver.com/v/37836503</id>
-        <link href="https://tv.naver.com/v/37836503"/>
-        <updated>2023-07-09T07:04:03.602Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
     </entry>
 </feed>
