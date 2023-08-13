@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-13T07:02:41.649Z</updated>
+    <updated>2023-08-13T08:05:06.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[나인아이(NINE.i) - Turn it off | SBS 230813 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/39020144</id>
+        <link href="https://tv.naver.com/v/39020144"/>
+        <updated>2023-08-13T08:05:05.776Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n.SSign(엔싸인) - 웜홀(Wormhole: New Track) | SBS 230813 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/39019988</id>
+        <link href="https://tv.naver.com/v/39019988"/>
+        <updated>2023-08-13T08:05:05.788Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n.SSign(엔싸인) - Higher | SBS 230813 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/39019736</id>
+        <link href="https://tv.naver.com/v/39019736"/>
+        <updated>2023-08-13T08:05:05.790Z</updated>
+        <content type="html"><![CDATA[01:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드(The Wind) - WE GO | SBS 230813 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/39019572</id>
+        <link href="https://tv.naver.com/v/39019572"/>
+        <updated>2023-08-13T08:05:05.790Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세븐어스(SEVENUS) - Wonder Land | SBS 230813 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/39019262</id>
+        <link href="https://tv.naver.com/v/39019262"/>
+        <updated>2023-08-13T08:05:05.791Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAN - Heartbeat | SBS 230813 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/39019261</id>
+        <link href="https://tv.naver.com/v/39019261"/>
+        <updated>2023-08-13T08:05:05.793Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TMC(티엠씨) - Color | SBS 230813 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/39018874</id>
+        <link href="https://tv.naver.com/v/39018874"/>
+        <updated>2023-08-13T08:05:05.795Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ITZY - None of My Business | SBS 230806 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/38791634</id>
@@ -164,54 +213,5 @@
         <link href="https://tv.naver.com/v/38549775"/>
         <updated>2023-07-30T09:03:28.751Z</updated>
         <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX - Party O'Clock | SBS 230730 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/38549423</id>
-        <link href="https://tv.naver.com/v/38549423"/>
-        <updated>2023-07-30T08:05:59.054Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소유(SOYOU) - ALOHA(feat. 보라)  | SBS 230730 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/38549421</id>
-        <link href="https://tv.naver.com/v/38549421"/>
-        <updated>2023-07-30T08:05:59.054Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZEROBASEONE - In Bloom | SBS 230730 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/38549220</id>
-        <link href="https://tv.naver.com/v/38549220"/>
-        <updated>2023-07-30T08:05:59.054Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래소년(MIRAE) - JUMP! | SBS 230730 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/38549189</id>
-        <link href="https://tv.naver.com/v/38549189"/>
-        <updated>2023-07-30T08:05:59.055Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICHILLIN’(아이칠린) - KICK-START | SBS 230730 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/38549088</id>
-        <link href="https://tv.naver.com/v/38549088"/>
-        <updated>2023-07-30T08:05:59.057Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOY STORY - Z.I.P(Zero Is the only Passion)Eng Ver. | SBS 230730 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/38548958</id>
-        <link href="https://tv.naver.com/v/38548958"/>
-        <updated>2023-07-30T08:05:59.059Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XG - GRL GVNG | SBS 230730 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/38548842</id>
-        <link href="https://tv.naver.com/v/38548842"/>
-        <updated>2023-07-30T08:05:59.068Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
