@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-03T06:07:02.237Z</updated>
+    <updated>2023-09-03T07:03:11.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[프림로즈 - LAFFY TAFFY | SBS 230903 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/39788337</id>
+        <link href="https://tv.naver.com/v/39788337"/>
+        <updated>2023-09-03T07:03:10.662Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유노윤호(U-KNOW) - Vuja De | SBS 230827 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/39516122</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/39256529"/>
         <updated>2023-08-20T08:05:13.921Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아일리원(ILY:1) - MY COLOR | SBS 230820 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/39256436</id>
-        <link href="https://tv.naver.com/v/39256436"/>
-        <updated>2023-08-20T08:05:13.923Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
