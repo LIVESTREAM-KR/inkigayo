@@ -2,9 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-09-17T07:02:55.944Z</updated>
+    <updated>2023-09-17T08:05:32.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키 (KEY) - CoolAs | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40368371</id>
+        <link href="https://tv.naver.com/v/40368371"/>
+        <updated>2023-09-17T08:05:31.418Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키 (KEY) - Good & Great | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40368368</id>
+        <link href="https://tv.naver.com/v/40368368"/>
+        <updated>2023-09-17T08:05:31.419Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화사 (HWASA) - I Love My Body | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40368071</id>
+        <link href="https://tv.naver.com/v/40368071"/>
+        <updated>2023-09-17T08:05:31.450Z</updated>
+        <content type="html"><![CDATA[02:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허영지 - L.O.V.E | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40368068</id>
+        <link href="https://tv.naver.com/v/40368068"/>
+        <updated>2023-09-17T08:05:31.452Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김세정 - Top or Cliff | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40368066</id>
+        <link href="https://tv.naver.com/v/40368066"/>
+        <updated>2023-09-17T08:05:31.453Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이채연 - LET'S DANCE | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40367899</id>
+        <link href="https://tv.naver.com/v/40367899"/>
+        <updated>2023-09-17T08:05:31.455Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Young K (DAY6) - 이것밖에는 없다 | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40367724</id>
+        <link href="https://tv.naver.com/v/40367724"/>
+        <updated>2023-09-17T08:05:31.459Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOYNEXTDOOR - 뭣 같아 | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40367723</id>
+        <link href="https://tv.naver.com/v/40367723"/>
+        <updated>2023-09-17T08:05:31.460Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H1-KEY(하이키) - 불빛을 꺼뜨리지 마 (Time to Shine) | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40367572</id>
+        <link href="https://tv.naver.com/v/40367572"/>
+        <updated>2023-09-17T08:05:31.461Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로켓펀치 (Rocket Punch) - BOOM | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40367410</id>
+        <link href="https://tv.naver.com/v/40367410"/>
+        <updated>2023-09-17T08:05:31.462Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAVITY - Ready or Not | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40367257</id>
+        <link href="https://tv.naver.com/v/40367257"/>
+        <updated>2023-09-17T08:05:31.463Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RIIZE - Get A Guitar | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40367111</id>
+        <link href="https://tv.naver.com/v/40367111"/>
+        <updated>2023-09-17T08:05:31.466Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mimiirose - FLIRTING | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40366980</id>
+        <link href="https://tv.naver.com/v/40366980"/>
+        <updated>2023-09-17T08:05:31.468Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EL7Z UP (엘즈업) - CHEEKY | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40366833</id>
+        <link href="https://tv.naver.com/v/40366833"/>
+        <updated>2023-09-17T08:05:31.469Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BLACKSWAN - Cat & Mouse | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40366832</id>
+        <link href="https://tv.naver.com/v/40366832"/>
+        <updated>2023-09-17T08:05:31.470Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FANTASY BOYS - One Shot | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40366668</id>
+        <link href="https://tv.naver.com/v/40366668"/>
+        <updated>2023-09-17T08:05:31.472Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[POW - Favorite | SBS 230917 방송]]></title>
         <id>https://tv.naver.com/v/40366347</id>
@@ -102,117 +214,5 @@
         <link href="https://tv.naver.com/v/40078287"/>
         <updated>2023-09-10T08:06:28.570Z</updated>
         <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스 (PURPLE KISS) - 7HEAVEN | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40078242</id>
-        <link href="https://tv.naver.com/v/40078242"/>
-        <updated>2023-09-10T08:06:28.570Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로켓펀치 (Rocket Punch) - BOOM | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40078240</id>
-        <link href="https://tv.naver.com/v/40078240"/>
-        <updated>2023-09-10T08:06:28.571Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VANNER (배너) - PERFORMER | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40077795</id>
-        <link href="https://tv.naver.com/v/40077795"/>
-        <updated>2023-09-10T07:02:51.952Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRENDZ (트렌드지) - MY WAY | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40077572</id>
-        <link href="https://tv.naver.com/v/40077572"/>
-        <updated>2023-09-10T07:02:51.967Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xikers (싸이커스) - HOMEBOY | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40077285</id>
-        <link href="https://tv.naver.com/v/40077285"/>
-        <updated>2023-09-10T07:02:51.969Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cignature (시그니처) - 안녕, 인사해(Smooth Sailing) | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40077246</id>
-        <link href="https://tv.naver.com/v/40077246"/>
-        <updated>2023-09-10T07:02:51.969Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT U - Baggy Jeans | SBS 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39790455</id>
-        <link href="https://tv.naver.com/v/39790455"/>
-        <updated>2023-09-03T09:02:42.132Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[효연(HYO) - Picture | SBS 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39790453</id>
-        <link href="https://tv.naver.com/v/39790453"/>
-        <updated>2023-09-03T09:02:42.133Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY(있지) - CAKE | SBS 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39790161</id>
-        <link href="https://tv.naver.com/v/39790161"/>
-        <updated>2023-09-03T08:08:38.465Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전소미 - 금금금 | SBS 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39790020</id>
-        <link href="https://tv.naver.com/v/39790020"/>
-        <updated>2023-09-03T08:08:38.465Z</updated>
-        <content type="html"><![CDATA[02:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STAYC(스테이씨) - Bubble | SBS 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39789846</id>
-        <link href="https://tv.naver.com/v/39789846"/>
-        <updated>2023-09-03T08:08:38.475Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백호(BAEKHO) - 엘리베이터 | SBS 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39789731</id>
-        <link href="https://tv.naver.com/v/39789731"/>
-        <updated>2023-09-03T08:08:38.475Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예린(YERIN) - 밤밤밤(Bambambam) | SBS 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39789685</id>
-        <link href="https://tv.naver.com/v/39789685"/>
-        <updated>2023-09-03T08:08:38.475Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H1-KEY (하이키) - SEOUL (Such a Beautiful City) | SBS 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39789521</id>
-        <link href="https://tv.naver.com/v/39789521"/>
-        <updated>2023-09-03T08:08:38.475Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVERGLOW(에버글로우) - SLAY | SBS 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39789329</id>
-        <link href="https://tv.naver.com/v/39789329"/>
-        <updated>2023-09-03T08:08:38.475Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이찬원 - 트위스트고고 | SBS 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39789203</id>
-        <link href="https://tv.naver.com/v/39789203"/>
-        <updated>2023-09-03T08:08:38.475Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
