@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-17T06:07:16.889Z</updated>
+    <updated>2023-09-17T07:02:55.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[POW - Favorite | SBS 230917 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/40366347</id>
+        <link href="https://tv.naver.com/v/40366347"/>
+        <updated>2023-09-17T07:02:55.096Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X:IN - SYNCHRONIZE | SBS 230917 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/40366191</id>
+        <link href="https://tv.naver.com/v/40366191"/>
+        <updated>2023-09-17T07:02:55.098Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[V - Slow Dancing | SBS 230910 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/40083172</id>
@@ -197,20 +211,6 @@
         <title type="html"><![CDATA[이찬원 - 트위스트고고 | SBS 230903 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/39789203</id>
         <link href="https://tv.naver.com/v/39789203"/>
-        <updated>2023-09-03T08:08:38.475Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tripleS LOVElution - Girls' Capitalism | SBS 230903 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/39789065</id>
-        <link href="https://tv.naver.com/v/39789065"/>
-        <updated>2023-09-03T08:08:38.475Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cignature(시그니처) - 안녕, 인사해(Smooth Sailing) | SBS 230903 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/39789061</id>
-        <link href="https://tv.naver.com/v/39789061"/>
         <updated>2023-09-03T08:08:38.475Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
     </entry>
