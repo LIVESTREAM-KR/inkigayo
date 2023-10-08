@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-08T08:08:18.869Z</updated>
+    <updated>2023-10-08T09:02:27.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[키(KEY) - Good & Great | SBS 231008 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/41114750</id>
+        <link href="https://tv.naver.com/v/41114750"/>
+        <updated>2023-10-08T09:02:27.081Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT DREAM - 버퍼링(Glitch Mode) | SBS 231008 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/41114720</id>
+        <link href="https://tv.naver.com/v/41114720"/>
+        <updated>2023-10-08T09:02:27.083Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT DREAM - ISTJ | SBS 231008 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/41114564</id>
+        <link href="https://tv.naver.com/v/41114564"/>
+        <updated>2023-10-08T09:02:27.086Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 231008 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/41114449</id>
@@ -192,26 +213,5 @@
         <link href="https://tv.naver.com/v/40366833"/>
         <updated>2023-09-17T08:05:31.469Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLACKSWAN - Cat & Mouse | SBS 230917 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/40366832</id>
-        <link href="https://tv.naver.com/v/40366832"/>
-        <updated>2023-09-17T08:05:31.470Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FANTASY BOYS - One Shot | SBS 230917 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/40366668</id>
-        <link href="https://tv.naver.com/v/40366668"/>
-        <updated>2023-09-17T08:05:31.472Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POW - Favorite | SBS 230917 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/40366347</id>
-        <link href="https://tv.naver.com/v/40366347"/>
-        <updated>2023-09-17T07:02:55.096Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
