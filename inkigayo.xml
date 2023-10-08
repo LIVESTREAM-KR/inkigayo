@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-10-08T06:08:18.431Z</updated>
+    <updated>2023-10-08T07:02:27.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NiziU(니쥬) - Paradise | SBS 231008 방송]]></title>
+        <id>https://tv.naver.com/v/41112571</id>
+        <link href="https://tv.naver.com/v/41112571"/>
+        <updated>2023-10-08T07:02:26.695Z</updated>
+        <content type="html"><![CDATA[04:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE NEW SIX(더 뉴식스) - Kick It 4 Now | SBS 231008 방송]]></title>
+        <id>https://tv.naver.com/v/41112237</id>
+        <link href="https://tv.naver.com/v/41112237"/>
+        <updated>2023-10-08T07:02:26.695Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEMPEST(템페스트) - DIVE | SBS 231008 방송]]></title>
+        <id>https://tv.naver.com/v/41112134</id>
+        <link href="https://tv.naver.com/v/41112134"/>
+        <updated>2023-10-08T07:02:26.706Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키 (KEY) - CoolAs | SBS 230917 방송]]></title>
         <id>https://tv.naver.com/v/40368371</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/40078612"/>
         <updated>2023-09-10T08:06:28.559Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOYNEXTDOOR - Crying | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40078610</id>
-        <link href="https://tv.naver.com/v/40078610"/>
-        <updated>2023-09-10T08:06:28.560Z</updated>
-        <content type="html"><![CDATA[02:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H1-KEY (하이키) - SEOUL (Such a Beautiful City) | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40078427</id>
-        <link href="https://tv.naver.com/v/40078427"/>
-        <updated>2023-09-10T08:06:28.569Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIIZE - Get A Guitar | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40078287</id>
-        <link href="https://tv.naver.com/v/40078287"/>
-        <updated>2023-09-10T08:06:28.570Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
     </entry>
 </feed>
