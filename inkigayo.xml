@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-10-29T06:08:19.284Z</updated>
+    <updated>2023-10-29T07:03:09.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[n.SSign(엔싸인) - Melody | SBS 231029 방송]]></title>
+        <id>https://tv.naver.com/v/42036058</id>
+        <link href="https://tv.naver.com/v/42036058"/>
+        <updated>2023-10-29T07:03:08.756Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영파씨(YOUNG POSSE) - MACARONI CHEESE | SBS 231029 방송]]></title>
+        <id>https://tv.naver.com/v/42035933</id>
+        <link href="https://tv.naver.com/v/42035933"/>
+        <updated>2023-10-29T07:03:08.757Z</updated>
+        <content type="html"><![CDATA[02:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[82MAJOR - FIRST CLASS | SBS 231029 방송]]></title>
+        <id>https://tv.naver.com/v/42035648</id>
+        <link href="https://tv.naver.com/v/42035648"/>
+        <updated>2023-10-29T07:03:08.757Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xdinary Heroes - Break the Brake | SBS 231022 방송]]></title>
         <id>https://tv.naver.com/v/41715171</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/41400640"/>
         <updated>2023-10-15T08:07:47.225Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - Cheese | SBS 231015 방송]]></title>
-        <id>https://tv.naver.com/v/41400516</id>
-        <link href="https://tv.naver.com/v/41400516"/>
-        <updated>2023-10-15T08:07:47.227Z</updated>
-        <content type="html"><![CDATA[02:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원어스(ONEUS) - Baila Conmigo | SBS 231015 방송]]></title>
-        <id>https://tv.naver.com/v/41400392</id>
-        <link href="https://tv.naver.com/v/41400392"/>
-        <updated>2023-10-15T08:07:47.237Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes - Break the Brake | SBS 231015 방송]]></title>
-        <id>https://tv.naver.com/v/41400122</id>
-        <link href="https://tv.naver.com/v/41400122"/>
-        <updated>2023-10-15T08:07:47.237Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
