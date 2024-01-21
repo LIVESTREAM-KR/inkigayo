@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-01-21T06:08:35.978Z</updated>
+    <updated>2024-01-21T07:03:33.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JD1 - who Am I | SBS 240121 방송]]></title>
+        <id>https://tv.naver.com/v/46034270</id>
+        <link href="https://tv.naver.com/v/46034270"/>
+        <updated>2024-01-21T07:03:32.512Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geenius - Voyage | SBS 240121 방송]]></title>
+        <id>https://tv.naver.com/v/46034070</id>
+        <link href="https://tv.naver.com/v/46034070"/>
+        <updated>2024-01-21T07:03:32.513Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DXMON(다이몬) - Burn Up | SBS 240121 방송]]></title>
+        <id>https://tv.naver.com/v/46034069</id>
+        <link href="https://tv.naver.com/v/46034069"/>
+        <updated>2024-01-21T07:03:32.517Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[규빈(Gyubin) - Really Like You | SBS 240121 방송]]></title>
+        <id>https://tv.naver.com/v/46033933</id>
+        <link href="https://tv.naver.com/v/46033933"/>
+        <updated>2024-01-21T07:03:32.518Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALL(H)OURS(올아워즈) - 으랏차차(GOTCHA) | SBS 240121 방송]]></title>
+        <id>https://tv.naver.com/v/46033742</id>
+        <link href="https://tv.naver.com/v/46033742"/>
+        <updated>2024-01-21T07:03:32.519Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[규현 - 그렇지 않아(The Story Behind) | SBS 240114 방송]]></title>
         <id>https://tv.naver.com/v/45713916</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/45713429"/>
         <updated>2024-01-14T08:08:24.534Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE BOYZ Special Unit - Honey | SBS 240114 방송]]></title>
-        <id>https://tv.naver.com/v/45713287</id>
-        <link href="https://tv.naver.com/v/45713287"/>
-        <updated>2024-01-14T08:08:24.535Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SF9 - 비보라(BIBORA) | SBS 240114 방송]]></title>
-        <id>https://tv.naver.com/v/45713260</id>
-        <link href="https://tv.naver.com/v/45713260"/>
-        <updated>2024-01-14T08:08:24.537Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정세운 - Quiz | SBS 240114 방송]]></title>
-        <id>https://tv.naver.com/v/45713149</id>
-        <link href="https://tv.naver.com/v/45713149"/>
-        <updated>2024-01-14T08:08:24.539Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIIZE - Love 119 | SBS 240114 방송]]></title>
-        <id>https://tv.naver.com/v/45712877</id>
-        <link href="https://tv.naver.com/v/45712877"/>
-        <updated>2024-01-14T08:08:24.540Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRENDZ(트렌드지) - 위로위로(Go Up) | SBS 240114 방송]]></title>
-        <id>https://tv.naver.com/v/45712847</id>
-        <link href="https://tv.naver.com/v/45712847"/>
-        <updated>2024-01-14T08:08:24.542Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
