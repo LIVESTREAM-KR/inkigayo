@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-04T06:07:17.711Z</updated>
+    <updated>2024-02-04T07:02:29.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[POW - Valentine | SBS 240204 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/46695859</id>
+        <link href="https://tv.naver.com/v/46695859"/>
+        <updated>2024-02-04T07:02:28.680Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geenius - Voyage | SBS 240204 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/46695728</id>
+        <link href="https://tv.naver.com/v/46695728"/>
+        <updated>2024-02-04T07:02:28.690Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DXMON(다이몬) - Burn Up | SBS 240204 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/46695724</id>
+        <link href="https://tv.naver.com/v/46695724"/>
+        <updated>2024-02-04T07:02:28.691Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALL(H)OURS(올아워즈) - 으랏차차(GOTCHA) | SBS 240204 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/46695723</id>
+        <link href="https://tv.naver.com/v/46695723"/>
+        <updated>2024-02-04T07:02:28.692Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류지현  - Get ready, Set, Go! | SBS 240204 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/46695606</id>
+        <link href="https://tv.naver.com/v/46695606"/>
+        <updated>2024-02-04T07:02:28.694Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[씨스타19(SISTAR19) - NO MORE(MA BOY) | SBS 240128 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/46370121</id>
@@ -38,40 +73,5 @@
         <link href="https://tv.naver.com/v/46369670"/>
         <updated>2024-01-28T08:08:28.840Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설아(우주소녀) - Without U | SBS 240128 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/46369506</id>
-        <link href="https://tv.naver.com/v/46369506"/>
-        <updated>2024-01-28T08:08:28.842Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후이(HUI) - 흠뻑 | SBS 240128 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/46369393</id>
-        <link href="https://tv.naver.com/v/46369393"/>
-        <updated>2024-01-28T08:08:28.843Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX - DASH | SBS 240128 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/46369365</id>
-        <link href="https://tv.naver.com/v/46369365"/>
-        <updated>2024-01-28T08:08:28.844Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX(씨아이엑스) - Lovers or Enemies | SBS 240128 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/46369223</id>
-        <link href="https://tv.naver.com/v/46369223"/>
-        <updated>2024-01-28T08:08:28.845Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H1-KEY(하이키) - Thinkin’ About You | SBS 240128 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/46368979</id>
-        <link href="https://tv.naver.com/v/46368979"/>
-        <updated>2024-01-28T08:08:28.846Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>
