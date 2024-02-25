@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-25T06:07:31.229Z</updated>
+    <updated>2024-02-25T07:03:05.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[AIMERS - Somebody | SBS 240225 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/47535388</id>
+        <link href="https://tv.naver.com/v/47535388"/>
+        <updated>2024-02-25T07:03:05.236Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DXMON(다이몬) - SPARK | SBS 240225 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/47535255</id>
+        <link href="https://tv.naver.com/v/47535255"/>
+        <updated>2024-02-25T07:03:05.237Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BXB(비엑스비) - Airplane | SBS 240225 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/47535252</id>
+        <link href="https://tv.naver.com/v/47535252"/>
+        <updated>2024-02-25T07:03:05.241Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤수현 - 니나노 | SBS 240225 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/47535107</id>
+        <link href="https://tv.naver.com/v/47535107"/>
+        <updated>2024-02-25T07:03:05.243Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[텐 - Nightwalker | SBS 240218 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/47229045</id>
@@ -45,33 +73,5 @@
         <link href="https://tv.naver.com/v/47228566"/>
         <updated>2024-02-18T08:08:24.732Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P1Harmony - 때깔(Killin’ It) | SBS 240218 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/47228253</id>
-        <link href="https://tv.naver.com/v/47228253"/>
-        <updated>2024-02-18T08:08:24.733Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWS - 첫 만남은 계획대로 되지 않아 | SBS 240218 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/47228066</id>
-        <link href="https://tv.naver.com/v/47228066"/>
-        <updated>2024-02-18T08:08:24.735Z</updated>
-        <content type="html"><![CDATA[02:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIMERS - Somebody | SBS 240218 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/47228061</id>
-        <link href="https://tv.naver.com/v/47228061"/>
-        <updated>2024-02-18T08:08:24.736Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A SIX - 사랑 모두 거짓말 | SBS 240218 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/47227759</id>
-        <link href="https://tv.naver.com/v/47227759"/>
-        <updated>2024-02-18T08:08:24.737Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>
