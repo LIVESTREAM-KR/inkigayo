@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-03-17T06:08:16.895Z</updated>
+    <updated>2024-03-17T07:02:42.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AIMERS - Where We Go | SBS 240317 방송]]></title>
+        <id>https://tv.naver.com/v/48427420</id>
+        <link href="https://tv.naver.com/v/48427420"/>
+        <updated>2024-03-17T07:02:41.671Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노매드(NOMAD) - California love | SBS 240317 방송]]></title>
+        <id>https://tv.naver.com/v/48427385</id>
+        <link href="https://tv.naver.com/v/48427385"/>
+        <updated>2024-03-17T07:02:41.675Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍지윤 - 가보자GO | SBS 240317 방송]]></title>
+        <id>https://tv.naver.com/v/48427242</id>
+        <link href="https://tv.naver.com/v/48427242"/>
+        <updated>2024-03-17T07:02:41.676Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태용 - TAP | SBS 240310 방송]]></title>
         <id>https://tv.naver.com/v/48097022</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/48096076"/>
         <updated>2024-03-10T08:07:45.407Z</updated>
         <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT WISH - WISH (Korean ver.) | SBS 240310 방송]]></title>
-        <id>https://tv.naver.com/v/48095909</id>
-        <link href="https://tv.naver.com/v/48095909"/>
-        <updated>2024-03-10T08:07:45.408Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트라이비(TRI.BE) - Diamond | SBS 240310 방송]]></title>
-        <id>https://tv.naver.com/v/48095798</id>
-        <link href="https://tv.naver.com/v/48095798"/>
-        <updated>2024-03-10T08:07:45.409Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT WISH - Sail Away (Korean ver.) | SBS 240310 방송]]></title>
-        <id>https://tv.naver.com/v/48095755</id>
-        <link href="https://tv.naver.com/v/48095755"/>
-        <updated>2024-03-10T08:07:45.412Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
