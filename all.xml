@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-31T08:08:53.965Z</updated>
+    <updated>2024-03-31T09:03:50.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[BoA - 정말, 없니? (Emptiness) | SBS 240331 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/49148437</id>
+        <link href="https://tv.naver.com/v/49148437"/>
+        <updated>2024-03-31T09:03:49.586Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT DREAM - Smoothie  | SBS 240331 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/49147716</id>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/49146338"/>
         <updated>2024-03-31T08:08:53.352Z</updated>
         <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE NEW SIX - FUEGO | SBS 240331 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/49146315</id>
-        <link href="https://tv.naver.com/v/49146315"/>
-        <updated>2024-03-31T08:08:53.353Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>

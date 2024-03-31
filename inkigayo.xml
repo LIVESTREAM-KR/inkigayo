@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-03-31T08:08:53.940Z</updated>
+    <updated>2024-03-31T09:03:50.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BoA - 정말, 없니? (Emptiness) | SBS 240331 방송]]></title>
+        <id>https://tv.naver.com/v/49148437</id>
+        <link href="https://tv.naver.com/v/49148437"/>
+        <updated>2024-03-31T09:03:49.586Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT DREAM - Smoothie  | SBS 240331 방송]]></title>
         <id>https://tv.naver.com/v/49147716</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49146338"/>
         <updated>2024-03-31T08:08:53.352Z</updated>
         <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE NEW SIX - FUEGO | SBS 240331 방송]]></title>
-        <id>https://tv.naver.com/v/49146315</id>
-        <link href="https://tv.naver.com/v/49146315"/>
-        <updated>2024-03-31T08:08:53.353Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
