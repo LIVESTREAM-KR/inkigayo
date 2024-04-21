@@ -2,76 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-21T07:03:49.731Z</updated>
+    <updated>2024-04-21T08:08:14.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[원위(ONEWE) - 추억의 소각장(Beautiful Ashes) | SBS 240421 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/50184792</id>
-        <link href="https://tv.naver.com/v/50184792"/>
-        <updated>2024-04-21T07:03:49.144Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
+        <title type="html"><![CDATA[온앤오프(ONF) - Bye My Monster | SBS 240421 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/50187305</id>
+        <link href="https://tv.naver.com/v/50187305"/>
+        <updated>2024-04-21T08:08:14.057Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SPIA(수피아) - Daddy’s little gir | SBS 240421 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/50184558</id>
-        <link href="https://tv.naver.com/v/50184558"/>
-        <updated>2024-04-21T07:03:49.145Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
+        <title type="html"><![CDATA[CRAVITY - C'est La Vie | SBS 240421 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/50187302</id>
+        <link href="https://tv.naver.com/v/50187302"/>
+        <updated>2024-04-21T08:08:14.060Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NOWADAYS - OoWee | SBS 240421 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/50184556</id>
-        <link href="https://tv.naver.com/v/50184556"/>
-        <updated>2024-04-21T07:03:49.145Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
+        <title type="html"><![CDATA[LAY ZHANG - PSYCHIC (Korean Ver.) | SBS 240421 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/50187111</id>
+        <link href="https://tv.naver.com/v/50187111"/>
+        <updated>2024-04-21T08:08:14.063Z</updated>
+        <content type="html"><![CDATA[02:25]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BEWAVE - SING ! | SBS 240421 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/50184259</id>
-        <link href="https://tv.naver.com/v/50184259"/>
-        <updated>2024-04-21T07:03:49.147Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
+        <title type="html"><![CDATA[BOYNEXTDOOR - Earth, Wind & Fire | SBS 240421 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/50186740</id>
+        <link href="https://tv.naver.com/v/50186740"/>
+        <updated>2024-04-21T08:08:14.063Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Candy Shop - Good Girl | SBS 240421 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/50184196</id>
-        <link href="https://tv.naver.com/v/50184196"/>
-        <updated>2024-04-21T07:03:49.148Z</updated>
-        <content type="html"><![CDATA[02:39]]></content>
+        <title type="html"><![CDATA[BOYNEXTDOOR - OUR | SBS 240421 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/50186487</id>
+        <link href="https://tv.naver.com/v/50186487"/>
+        <updated>2024-04-21T08:08:14.065Z</updated>
+        <content type="html"><![CDATA[02:40]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[투모로우바이투게더 - Deja Vu | SBS 240414 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/49812306</id>
-        <link href="https://tv.naver.com/v/49812306"/>
-        <updated>2024-04-14T14:25:50.887Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
+        <title type="html"><![CDATA[RIIZE - Impossible | SBS 240421 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/50186483</id>
+        <link href="https://tv.naver.com/v/50186483"/>
+        <updated>2024-04-21T08:08:14.065Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[온앤오프(ONF) - Bye My Monster | SBS 240414 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/49812298</id>
-        <link href="https://tv.naver.com/v/49812298"/>
-        <updated>2024-04-14T14:25:50.888Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN - Beautiful MAZE | SBS 240414 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/49812297</id>
-        <link href="https://tv.naver.com/v/49812297"/>
-        <updated>2024-04-14T14:25:50.891Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BABYMONSTER - SHEESH | SBS 240414 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/49812108</id>
-        <link href="https://tv.naver.com/v/49812108"/>
-        <updated>2024-04-14T14:25:50.891Z</updated>
+        <title type="html"><![CDATA[WOOAH - BLUSH | SBS 240421 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/50186049</id>
+        <link href="https://tv.naver.com/v/50186049"/>
+        <updated>2024-04-21T08:08:14.069Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BAE173 - Fifty-Fifty | SBS 240414 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/49811923</id>
-        <link href="https://tv.naver.com/v/49811923"/>
-        <updated>2024-04-14T07:48:46.902Z</updated>
+        <title type="html"><![CDATA[ILLIT - Lucky Girl Syndrome | SBS 240421 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/50185841</id>
+        <link href="https://tv.naver.com/v/50185841"/>
+        <updated>2024-04-21T08:08:14.069Z</updated>
+        <content type="html"><![CDATA[02:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRIPPIN - Beautiful MAZE | SBS 240421 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/50185833</id>
+        <link href="https://tv.naver.com/v/50185833"/>
+        <updated>2024-04-21T08:08:14.070Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BABYMONSTER - SHEESH | SBS 240421 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/50185470</id>
+        <link href="https://tv.naver.com/v/50185470"/>
+        <updated>2024-04-21T08:08:14.071Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>
