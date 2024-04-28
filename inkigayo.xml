@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-04-28T06:08:26.156Z</updated>
+    <updated>2024-04-28T07:02:58.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MC 문성현X이서X한유진 - 첫 사랑니 (원곡: f(x)) | SBS 240428 방송]]></title>
+        <id>https://tv.naver.com/v/50546798</id>
+        <link href="https://tv.naver.com/v/50546798"/>
+        <updated>2024-04-28T07:02:58.135Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[온앤오프(ONF) - Bye My Monster | SBS 240421 방송]]></title>
         <id>https://tv.naver.com/v/50187305</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50185833"/>
         <updated>2024-04-21T08:08:14.070Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BABYMONSTER - SHEESH | SBS 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50185470</id>
-        <link href="https://tv.naver.com/v/50185470"/>
-        <updated>2024-04-21T08:08:14.071Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>
