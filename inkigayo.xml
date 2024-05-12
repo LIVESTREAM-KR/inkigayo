@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-05-12T06:09:16.733Z</updated>
+    <updated>2024-05-12T07:02:28.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YAOCHEN - TURN UP (Korean Ver.) | SBS 240512 방송]]></title>
+        <id>https://tv.naver.com/v/51231851</id>
+        <link href="https://tv.naver.com/v/51231851"/>
+        <updated>2024-05-12T07:02:27.852Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유니코드(UNICODE) - 돌아봐줄래(Prod.by 진영) | SBS 240512 방송]]></title>
+        <id>https://tv.naver.com/v/51231645</id>
+        <link href="https://tv.naver.com/v/51231645"/>
+        <updated>2024-05-12T07:02:27.856Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빅오션(Big Ocean) - 빛 (Glow) | SBS 240512 방송]]></title>
+        <id>https://tv.naver.com/v/51231642</id>
+        <link href="https://tv.naver.com/v/51231642"/>
+        <updated>2024-05-12T07:02:27.856Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어센트(ASC2NT) - LOVE ME DO | SBS 240512 방송]]></title>
+        <id>https://tv.naver.com/v/51231641</id>
+        <link href="https://tv.naver.com/v/51231641"/>
+        <updated>2024-05-12T07:02:27.857Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LAS(라스) - Playlist (플레이리스트) | SBS 240512 방송]]></title>
+        <id>https://tv.naver.com/v/51231457</id>
+        <link href="https://tv.naver.com/v/51231457"/>
+        <updated>2024-05-12T07:02:27.857Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴(SEVENTEEN) - MAESTRO | SBS 240505 방송]]></title>
         <id>https://tv.naver.com/v/50893490</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/50893010"/>
         <updated>2024-05-05T08:08:27.015Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우기((여자)아이들) - FREAK | SBS 240505 방송]]></title>
-        <id>https://tv.naver.com/v/50893005</id>
-        <link href="https://tv.naver.com/v/50893005"/>
-        <updated>2024-05-05T08:08:27.017Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes - 어리고 부끄럽고 바보 같은 | SBS 240505 방송]]></title>
-        <id>https://tv.naver.com/v/50892863</id>
-        <link href="https://tv.naver.com/v/50892863"/>
-        <updated>2024-05-05T08:08:27.018Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUNITE - GEEKIN | SBS 240505 방송]]></title>
-        <id>https://tv.naver.com/v/50892608</id>
-        <link href="https://tv.naver.com/v/50892608"/>
-        <updated>2024-05-05T08:08:27.020Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The KingDom(더킹덤) - Flip that Coin | SBS 240505 방송]]></title>
-        <id>https://tv.naver.com/v/50892576</id>
-        <link href="https://tv.naver.com/v/50892576"/>
-        <updated>2024-05-05T08:08:27.021Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조혜련 - 빠나나날라 | SBS 240505 방송]]></title>
-        <id>https://tv.naver.com/v/50892573</id>
-        <link href="https://tv.naver.com/v/50892573"/>
-        <updated>2024-05-05T08:08:27.026Z</updated>
-        <content type="html"><![CDATA[02:41]]></content>
     </entry>
 </feed>
