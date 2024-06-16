@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-06-16T06:09:14.635Z</updated>
+    <updated>2024-06-16T07:07:41.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슈퍼주니어 - Show Time | SBS 240616 방송]]></title>
+        <id>https://tv.naver.com/v/55022092</id>
+        <link href="https://tv.naver.com/v/55022092"/>
+        <updated>2024-06-16T07:07:40.819Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[니콜 - 5!6!7!8! | SBS 240616 방송]]></title>
+        <id>https://tv.naver.com/v/55020976</id>
+        <link href="https://tv.naver.com/v/55020976"/>
+        <updated>2024-06-16T07:07:40.819Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선미 - Balloon in Love | SBS 240616 방송]]></title>
+        <id>https://tv.naver.com/v/55020961</id>
+        <link href="https://tv.naver.com/v/55020961"/>
+        <updated>2024-06-16T07:07:40.821Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나연(TWICE) - ABCD  | SBS 240616 방송]]></title>
+        <id>https://tv.naver.com/v/55019918</id>
+        <link href="https://tv.naver.com/v/55019918"/>
+        <updated>2024-06-16T07:07:40.822Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WayV - Give Me That (Korean Ver.) | SBS 240616 방송]]></title>
+        <id>https://tv.naver.com/v/55019053</id>
+        <link href="https://tv.naver.com/v/55019053"/>
+        <updated>2024-06-16T07:07:40.824Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WayV - She A Wolf | SBS 240616 방송]]></title>
         <id>https://tv.naver.com/v/55018322</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/55015945"/>
         <updated>2024-06-16T06:09:14.051Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCND - X10 | SBS 240616 방송]]></title>
-        <id>https://tv.naver.com/v/55015015</id>
-        <link href="https://tv.naver.com/v/55015015"/>
-        <updated>2024-06-16T06:09:14.052Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cignature(시그니처) - 풍덩 | SBS 240616 방송]]></title>
-        <id>https://tv.naver.com/v/55014062</id>
-        <link href="https://tv.naver.com/v/55014062"/>
-        <updated>2024-06-16T06:09:14.053Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVERGLOW(에버글로우) - ZOMBIE | SBS 240616 방송]]></title>
-        <id>https://tv.naver.com/v/55013272</id>
-        <link href="https://tv.naver.com/v/55013272"/>
-        <updated>2024-06-16T06:09:14.055Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARTMS - Virtual Angel | SBS 240616 방송]]></title>
-        <id>https://tv.naver.com/v/55013252</id>
-        <link href="https://tv.naver.com/v/55013252"/>
-        <updated>2024-06-16T06:09:14.058Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRENDZ(트렌드지) - GLOW | SBS 240616 방송]]></title>
-        <id>https://tv.naver.com/v/55012458</id>
-        <link href="https://tv.naver.com/v/55012458"/>
-        <updated>2024-06-16T06:09:14.059Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
