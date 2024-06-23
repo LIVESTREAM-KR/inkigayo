@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-23T07:09:02.068Z</updated>
+    <updated>2024-06-23T08:08:14.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[나연(TWICE) - ABCD  | SBS 240623 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/56361043</id>
+        <link href="https://tv.naver.com/v/56361043"/>
+        <updated>2024-06-23T08:08:13.207Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권은비 - SABOTAGE  | SBS 240623 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/56360788</id>
+        <link href="https://tv.naver.com/v/56360788"/>
+        <updated>2024-06-23T08:08:13.208Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RIIZE - Boom Boom Bass | SBS 240623 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/56360579</id>
+        <link href="https://tv.naver.com/v/56360579"/>
+        <updated>2024-06-23T08:08:13.209Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EVERGLOW(에버글로우) - ZOMBIE | SBS 240623 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/56360364</id>
@@ -52,26 +73,5 @@
         <link href="https://tv.naver.com/v/56359495"/>
         <updated>2024-06-23T07:09:01.456Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRENDZ(트렌드지) - GLOW | SBS 240623 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/56359325</id>
-        <link href="https://tv.naver.com/v/56359325"/>
-        <updated>2024-06-23T07:09:01.459Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블리처스(BLITZERS) - SUPERPOWER | SBS 240623 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/56359143</id>
-        <link href="https://tv.naver.com/v/56359143"/>
-        <updated>2024-06-23T07:09:01.459Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONE PACT(원팩트) - 꺼져 | SBS 240623 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/56359009</id>
-        <link href="https://tv.naver.com/v/56359009"/>
-        <updated>2024-06-23T07:09:01.461Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
