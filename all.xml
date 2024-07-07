@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-07T05:09:51.425Z</updated>
+    <updated>2024-07-07T06:09:47.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[런치(LUNCH) - 나를 안아줘 (Love Like VIP) | SBS 240707 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/57109512</id>
+        <link href="https://tv.naver.com/v/57109512"/>
+        <updated>2024-07-07T06:09:47.145Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lucky팡팡(김다현X스미다아이코) - 담다디 | SBS 240707 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/57109166</id>
+        <link href="https://tv.naver.com/v/57109166"/>
+        <updated>2024-07-07T06:09:47.145Z</updated>
+        <content type="html"><![CDATA[02:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Red Velvet(레드벨벳) - Cosmic  | SBS 240630 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/56743370</id>
@@ -59,19 +73,5 @@
         <link href="https://tv.naver.com/v/56742100"/>
         <updated>2024-06-30T07:04:10.575Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWS(투어스) - Double Take | SBS 240630 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/56741962</id>
-        <link href="https://tv.naver.com/v/56741962"/>
-        <updated>2024-06-30T07:04:10.576Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H1-KEY(하이키) - 뜨거워지자 (Let It Burn) | SBS 240630 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/56741789</id>
-        <link href="https://tv.naver.com/v/56741789"/>
-        <updated>2024-06-30T07:04:10.576Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
     </entry>
 </feed>
