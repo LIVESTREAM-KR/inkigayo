@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-07-14T06:11:31.296Z</updated>
+    <updated>2024-07-14T07:09:33.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들 - 클락션 (Klaxon)  | SBS 240714 방송]]></title>
+        <id>https://tv.naver.com/v/57495118</id>
+        <link href="https://tv.naver.com/v/57495118"/>
+        <updated>2024-07-14T07:09:32.550Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ENHYPEN - XO (Only If You Say Yes) | SBS 240714 방송]]></title>
+        <id>https://tv.naver.com/v/57494937</id>
+        <link href="https://tv.naver.com/v/57494937"/>
+        <updated>2024-07-14T07:09:32.550Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ENHYPEN - Hundred Broken Hearts | SBS 240714 방송]]></title>
+        <id>https://tv.naver.com/v/57494759</id>
+        <link href="https://tv.naver.com/v/57494759"/>
+        <updated>2024-07-14T07:09:32.551Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STAYC(스테이씨) - Cheeky Icy Thang | SBS 240714 방송]]></title>
+        <id>https://tv.naver.com/v/57494598</id>
+        <link href="https://tv.naver.com/v/57494598"/>
+        <updated>2024-07-14T07:09:32.551Z</updated>
+        <content type="html"><![CDATA[02:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스(NewJeans) - Supernatural | SBS 240714 방송]]></title>
+        <id>https://tv.naver.com/v/57494442</id>
+        <link href="https://tv.naver.com/v/57494442"/>
+        <updated>2024-07-14T07:09:32.552Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스(NewJeans) - Right Now | SBS 240714 방송]]></title>
+        <id>https://tv.naver.com/v/57494440</id>
+        <link href="https://tv.naver.com/v/57494440"/>
+        <updated>2024-07-14T07:09:32.554Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이채연 - Don’t | SBS 240714 방송]]></title>
         <id>https://tv.naver.com/v/57494079</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/57493781"/>
         <updated>2024-07-14T06:11:30.700Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT WISH - Songbird (Korean Ver.) | SBS 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57493745</id>
-        <link href="https://tv.naver.com/v/57493745"/>
-        <updated>2024-07-14T06:11:30.700Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H1-KEY(하이키) - 뜨거워지자 (Let It Burn) | SBS 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57493740</id>
-        <link href="https://tv.naver.com/v/57493740"/>
-        <updated>2024-07-14T06:11:30.703Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BABYMONSTER - FOREVER | SBS 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57493448</id>
-        <link href="https://tv.naver.com/v/57493448"/>
-        <updated>2024-07-14T06:11:30.703Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISS OF LIFE - Sticky | SBS 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57493317</id>
-        <link href="https://tv.naver.com/v/57493317"/>
-        <updated>2024-07-14T06:11:30.704Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALL(H)OURS(올아워즈) - 도깨비 (SHOCK) | SBS 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57493277</id>
-        <link href="https://tv.naver.com/v/57493277"/>
-        <updated>2024-07-14T06:11:30.704Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVNNE - I ＜3 U (I love U) | SBS 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57492981</id>
-        <link href="https://tv.naver.com/v/57492981"/>
-        <updated>2024-07-14T06:11:30.704Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
