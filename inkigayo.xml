@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-08-11T06:10:52.762Z</updated>
+    <updated>2024-08-11T07:04:53.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Tony yu(토니유) - Jigglin’ (KOR Ver.) | SBS 240811 방송]]></title>
-        <id>https://tv.naver.com/v/59099177</id>
-        <link href="https://tv.naver.com/v/59099177"/>
-        <updated>2024-08-11T06:10:52.146Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
+        <title type="html"><![CDATA[뱀뱀(BamBam) - LAST PARADE | SBS 240811 방송]]></title>
+        <id>https://tv.naver.com/v/59100969</id>
+        <link href="https://tv.naver.com/v/59100969"/>
+        <updated>2024-08-11T07:04:52.679Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐치더영(CATCH THE YOUNG) - Dream it | SBS 240811 방송]]></title>
-        <id>https://tv.naver.com/v/59098984</id>
-        <link href="https://tv.naver.com/v/59098984"/>
-        <updated>2024-08-11T06:10:52.148Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(여자)아이들 - 클락션 (Klaxon)  | SBS 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57495118</id>
-        <link href="https://tv.naver.com/v/57495118"/>
-        <updated>2024-07-14T07:09:32.550Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENHYPEN - XO (Only If You Say Yes) | SBS 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57494937</id>
-        <link href="https://tv.naver.com/v/57494937"/>
-        <updated>2024-07-14T07:09:32.550Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENHYPEN - Hundred Broken Hearts | SBS 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57494759</id>
-        <link href="https://tv.naver.com/v/57494759"/>
-        <updated>2024-07-14T07:09:32.551Z</updated>
+        <title type="html"><![CDATA[Stray Kids - JJAM | SBS 240811 방송]]></title>
+        <id>https://tv.naver.com/v/59100967</id>
+        <link href="https://tv.naver.com/v/59100967"/>
+        <updated>2024-08-11T07:04:52.682Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[STAYC(스테이씨) - Cheeky Icy Thang | SBS 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57494598</id>
-        <link href="https://tv.naver.com/v/57494598"/>
-        <updated>2024-07-14T07:09:32.551Z</updated>
-        <content type="html"><![CDATA[02:35]]></content>
+        <title type="html"><![CDATA[Stray Kids - Chk Chk Boom | SBS 240811 방송]]></title>
+        <id>https://tv.naver.com/v/59100777</id>
+        <link href="https://tv.naver.com/v/59100777"/>
+        <updated>2024-08-11T07:04:52.687Z</updated>
+        <content type="html"><![CDATA[02:39]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴진스(NewJeans) - Supernatural | SBS 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57494442</id>
-        <link href="https://tv.naver.com/v/57494442"/>
-        <updated>2024-07-14T07:09:32.552Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
+        <title type="html"><![CDATA[전소미 - Ice Cream | SBS 240811 방송]]></title>
+        <id>https://tv.naver.com/v/59100428</id>
+        <link href="https://tv.naver.com/v/59100428"/>
+        <updated>2024-08-11T07:04:52.688Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴진스(NewJeans) - Right Now | SBS 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57494440</id>
-        <link href="https://tv.naver.com/v/57494440"/>
-        <updated>2024-07-14T07:09:32.554Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
+        <title type="html"><![CDATA[Weeekly(위클리) - Dance Dance Dance! | SBS 240811 방송]]></title>
+        <id>https://tv.naver.com/v/59100249</id>
+        <link href="https://tv.naver.com/v/59100249"/>
+        <updated>2024-08-11T07:04:52.688Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이채연 - Don’t | SBS 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57494079</id>
-        <link href="https://tv.naver.com/v/57494079"/>
-        <updated>2024-07-14T06:11:30.696Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
+        <title type="html"><![CDATA[LIGHTSUM - POSE! | SBS 240811 방송]]></title>
+        <id>https://tv.naver.com/v/59100133</id>
+        <link href="https://tv.naver.com/v/59100133"/>
+        <updated>2024-08-11T07:04:52.689Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[드림캐쳐 - JUSTICE | SBS 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57494075</id>
-        <link href="https://tv.naver.com/v/57494075"/>
-        <updated>2024-07-14T06:11:30.698Z</updated>
+        <title type="html"><![CDATA[MCND(엠씨엔디) - 아뜨뜨뜨 | SBS 240811 방송]]></title>
+        <id>https://tv.naver.com/v/59100132</id>
+        <link href="https://tv.naver.com/v/59100132"/>
+        <updated>2024-08-11T07:04:52.690Z</updated>
+        <content type="html"><![CDATA[02:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNIS(유니스) - 너만 몰라 | SBS 240811 방송]]></title>
+        <id>https://tv.naver.com/v/59099982</id>
+        <link href="https://tv.naver.com/v/59099982"/>
+        <updated>2024-08-11T07:04:52.691Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BLACKSWAN(블랙스완) - Roll Up | SBS 240811 방송]]></title>
+        <id>https://tv.naver.com/v/59099778</id>
+        <link href="https://tv.naver.com/v/59099778"/>
+        <updated>2024-08-11T07:04:52.692Z</updated>
+        <content type="html"><![CDATA[02:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KOKOON(코쿤) - Dance Now | SBS 240811 방송]]></title>
+        <id>https://tv.naver.com/v/59099617</id>
+        <link href="https://tv.naver.com/v/59099617"/>
+        <updated>2024-08-11T07:04:52.694Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>
