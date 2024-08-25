@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-08-25T06:09:58.148Z</updated>
+    <updated>2024-08-25T07:04:46.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ARrC - S&S (sour and sweet) | SBS 240825 방송]]></title>
+        <id>https://tv.naver.com/v/59860706</id>
+        <link href="https://tv.naver.com/v/59860706"/>
+        <updated>2024-08-25T07:04:45.611Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LUN8(루네이트) - WHIP | SBS 240825 방송]]></title>
+        <id>https://tv.naver.com/v/59860526</id>
+        <link href="https://tv.naver.com/v/59860526"/>
+        <updated>2024-08-25T07:04:45.611Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아일리원 (ILY:1) - illang (Firework) | SBS 240825 방송]]></title>
+        <id>https://tv.naver.com/v/59860479</id>
+        <link href="https://tv.naver.com/v/59860479"/>
+        <updated>2024-08-25T07:04:45.612Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[효린(HYOLYN) - Wait | SBS 240818 방송]]></title>
         <id>https://tv.naver.com/v/59471096</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/59470156"/>
         <updated>2024-08-18T08:09:18.236Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOY STORY - Pump !t Up (Korean Ver.) | SBS 240818 방송]]></title>
-        <id>https://tv.naver.com/v/59469969</id>
-        <link href="https://tv.naver.com/v/59469969"/>
-        <updated>2024-08-18T08:09:18.237Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허찬미 - 토요일 밤에 | SBS 240818 방송]]></title>
-        <id>https://tv.naver.com/v/59469800</id>
-        <link href="https://tv.naver.com/v/59469800"/>
-        <updated>2024-08-18T08:09:18.238Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설하윤 - 설렌다 굿싱 | SBS 240818 방송]]></title>
-        <id>https://tv.naver.com/v/59469797</id>
-        <link href="https://tv.naver.com/v/59469797"/>
-        <updated>2024-08-18T08:09:18.239Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
 </feed>
