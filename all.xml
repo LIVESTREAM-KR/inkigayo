@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-08T08:09:40.081Z</updated>
+    <updated>2024-09-08T09:07:40.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[DAY6 - 녹아내려요 | SBS 240908 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/60630488</id>
+        <link href="https://tv.naver.com/v/60630488"/>
+        <updated>2024-09-08T09:07:40.149Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤하 - 태양물고기 | SBS 240908 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/60629689</id>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/60628814"/>
         <updated>2024-09-08T08:09:39.369Z</updated>
         <content type="html"><![CDATA[02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOYNEXTDOOR - 부모님 관람불가 | SBS 240908 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/60628812</id>
-        <link href="https://tv.naver.com/v/60628812"/>
-        <updated>2024-09-08T08:09:39.370Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
     </entry>
 </feed>
