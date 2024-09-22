@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-09-22T08:09:35.530Z</updated>
+    <updated>2024-09-22T09:07:57.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화사(HWASA) - NA | SBS 240922 방송]]></title>
+        <id>https://tv.naver.com/v/61288684</id>
+        <link href="https://tv.naver.com/v/61288684"/>
+        <updated>2024-09-22T09:07:56.848Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연준(YEONJUN) - GGUM | SBS 240922 방송]]></title>
         <id>https://tv.naver.com/v/61288368</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/61286193</id>
         <link href="https://tv.naver.com/v/61286193"/>
         <updated>2024-09-22T08:09:34.862Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEOVV - MEOW | SBS 240922 방송]]></title>
-        <id>https://tv.naver.com/v/61286030</id>
-        <link href="https://tv.naver.com/v/61286030"/>
-        <updated>2024-09-22T07:07:45.036Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
