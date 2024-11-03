@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-11-03T06:13:04.237Z</updated>
+    <updated>2024-11-03T07:07:45.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SAY MY NAME - WaveWay | SBS 241103 방송]]></title>
+        <id>https://tv.naver.com/v/63705178</id>
+        <link href="https://tv.naver.com/v/63705178"/>
+        <updated>2024-11-03T07:07:44.534Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ODD YOUTH - THAT’S ME | SBS 241103 방송]]></title>
+        <id>https://tv.naver.com/v/63705176</id>
+        <link href="https://tv.naver.com/v/63705176"/>
+        <updated>2024-11-03T07:07:44.535Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이젤(EJel) - Now or Never | SBS 241103 방송]]></title>
+        <id>https://tv.naver.com/v/63704954</id>
+        <link href="https://tv.naver.com/v/63704954"/>
+        <updated>2024-11-03T07:07:44.536Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEWAVE - 너에게로 가는 길이 너무 어려워 | SBS 241103 방송]]></title>
+        <id>https://tv.naver.com/v/63704722</id>
+        <link href="https://tv.naver.com/v/63704722"/>
+        <updated>2024-11-03T07:07:44.538Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ITZY - GOLD | SBS 241027 방송]]></title>
         <id>https://tv.naver.com/v/63283541</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/63282230"/>
         <updated>2024-10-27T08:11:05.756Z</updated>
         <content type="html"><![CDATA[02:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tripleS Visionary Vision - Hit the Floor | SBS 241027 방송]]></title>
-        <id>https://tv.naver.com/v/63282226</id>
-        <link href="https://tv.naver.com/v/63282226"/>
-        <updated>2024-10-27T08:11:05.758Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드림노트(DreamNote) - 초록빛 (Joyful Green) | SBS 241027 방송]]></title>
-        <id>https://tv.naver.com/v/63282217</id>
-        <link href="https://tv.naver.com/v/63282217"/>
-        <updated>2024-10-27T08:11:05.759Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앰퍼샌드원(AMPERS&ONE) - He + She = We | SBS 241027 방송]]></title>
-        <id>https://tv.naver.com/v/63281901</id>
-        <link href="https://tv.naver.com/v/63281901"/>
-        <updated>2024-10-27T08:11:05.761Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JD1 - 책임져 | SBS 241027 방송]]></title>
-        <id>https://tv.naver.com/v/63281894</id>
-        <link href="https://tv.naver.com/v/63281894"/>
-        <updated>2024-10-27T08:11:05.762Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
 </feed>
