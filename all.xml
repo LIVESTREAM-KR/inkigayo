@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-03T09:08:59.076Z</updated>
+    <updated>2024-11-03T10:09:07.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[ITZY - Imaginary Friend | SBS 241103 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/63710870</id>
+        <link href="https://tv.naver.com/v/63710870"/>
+        <updated>2024-11-03T10:09:06.725Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈(THE BOYZ) - TRIGGER (導火線) | SBS 241103 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/63708468</id>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/63706977"/>
         <updated>2024-11-03T08:10:25.765Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앰퍼샌드원(AMPERS&ONE) - He + She = We | SBS 241103 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/63706647</id>
-        <link href="https://tv.naver.com/v/63706647"/>
-        <updated>2024-11-03T08:10:25.769Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
     </entry>
 </feed>
