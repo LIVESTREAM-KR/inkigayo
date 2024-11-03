@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-11-03T08:10:26.400Z</updated>
+    <updated>2024-11-03T09:08:59.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더보이즈(THE BOYZ) - TRIGGER (導火線) | SBS 241103 방송]]></title>
+        <id>https://tv.naver.com/v/63708468</id>
+        <link href="https://tv.naver.com/v/63708468"/>
+        <updated>2024-11-03T09:08:58.441Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aespa - Whiplash | SBS 241103 방송]]></title>
+        <id>https://tv.naver.com/v/63707862</id>
+        <link href="https://tv.naver.com/v/63707862"/>
+        <updated>2024-11-03T09:08:58.442Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STAYC(스테이씨) - GPT | SBS 241103 방송]]></title>
         <id>https://tv.naver.com/v/63707675</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/63706647"/>
         <updated>2024-11-03T08:10:25.769Z</updated>
         <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드림노트(DreamNote) - 초록빛 (Joyful Green) | SBS 241103 방송]]></title>
-        <id>https://tv.naver.com/v/63706453</id>
-        <link href="https://tv.naver.com/v/63706453"/>
-        <updated>2024-11-03T08:10:25.772Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[82MAJOR - 혀끝(Stuck) | SBS 241103 방송]]></title>
-        <id>https://tv.naver.com/v/63706022</id>
-        <link href="https://tv.naver.com/v/63706022"/>
-        <updated>2024-11-03T08:10:25.773Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
     </entry>
 </feed>
