@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-11-10T06:10:15.755Z</updated>
+    <updated>2024-11-10T07:07:35.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앰퍼샌드원(AMPERS&ONE) - He + She = We | SBS 241110 방송]]></title>
+        <id>https://tv.naver.com/v/64144420</id>
+        <link href="https://tv.naver.com/v/64144420"/>
+        <updated>2024-11-10T07:07:35.267Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAY MY NAME - Goldilocks Water | SBS 241110 방송]]></title>
+        <id>https://tv.naver.com/v/64144178</id>
+        <link href="https://tv.naver.com/v/64144178"/>
+        <updated>2024-11-10T07:07:35.268Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DXMON(다이몬) - 찍찍찍 (Zip Zip Zip) | SBS 241110 방송]]></title>
+        <id>https://tv.naver.com/v/64143931</id>
+        <link href="https://tv.naver.com/v/64143931"/>
+        <updated>2024-11-10T07:07:35.269Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ODD YOUTH - THAT’S ME | SBS 241110 방송]]></title>
+        <id>https://tv.naver.com/v/64143710</id>
+        <link href="https://tv.naver.com/v/64143710"/>
+        <updated>2024-11-10T07:07:35.271Z</updated>
+        <content type="html"><![CDATA[02:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ITZY - Imaginary Friend | SBS 241103 방송]]></title>
         <id>https://tv.naver.com/v/63710870</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/63707489"/>
         <updated>2024-11-03T08:10:25.759Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - ON MY BIKE | SBS 241103 방송]]></title>
-        <id>https://tv.naver.com/v/63707322</id>
-        <link href="https://tv.naver.com/v/63707322"/>
-        <updated>2024-11-03T08:10:25.761Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISS OF LIFE - Igloo | SBS 241103 방송]]></title>
-        <id>https://tv.naver.com/v/63707165</id>
-        <link href="https://tv.naver.com/v/63707165"/>
-        <updated>2024-11-03T08:10:25.762Z</updated>
-        <content type="html"><![CDATA[02:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ILLIT - Cherish (My Love) | SBS 241103 방송]]></title>
-        <id>https://tv.naver.com/v/63706980</id>
-        <link href="https://tv.naver.com/v/63706980"/>
-        <updated>2024-11-03T08:10:25.764Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tripleS Visionary Vision - Hit the Floor | SBS 241103 방송]]></title>
-        <id>https://tv.naver.com/v/63706977</id>
-        <link href="https://tv.naver.com/v/63706977"/>
-        <updated>2024-11-03T08:10:25.765Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
