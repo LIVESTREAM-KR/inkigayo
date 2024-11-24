@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-11-24T05:08:12.167Z</updated>
+    <updated>2024-11-24T06:11:10.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박현호 - 사랑은 소리없이 | SBS 241124 방송]]></title>
+        <id>https://tv.naver.com/v/65027125</id>
+        <link href="https://tv.naver.com/v/65027125"/>
+        <updated>2024-11-24T06:11:09.359Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리베란테(Libelante) - 여정 | SBS 241124 방송]]></title>
+        <id>https://tv.naver.com/v/65027123</id>
+        <link href="https://tv.naver.com/v/65027123"/>
+        <updated>2024-11-24T06:11:09.360Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ODD YOUTH - THAT’S ME | SBS 241124 방송]]></title>
+        <id>https://tv.naver.com/v/65026745</id>
+        <link href="https://tv.naver.com/v/65026745"/>
+        <updated>2024-11-24T06:11:09.361Z</updated>
+        <content type="html"><![CDATA[02:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민호(MINHO) - Something About U | SBS 241117 방송]]></title>
         <id>https://tv.naver.com/v/64587070</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/64585919"/>
         <updated>2024-11-17T08:10:21.281Z</updated>
         <content type="html"><![CDATA[02:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yves(이브) - Viola | SBS 241117 방송]]></title>
-        <id>https://tv.naver.com/v/64585886</id>
-        <link href="https://tv.naver.com/v/64585886"/>
-        <updated>2024-11-17T08:10:21.284Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정동원 - 고리 | SBS 241117 방송]]></title>
-        <id>https://tv.naver.com/v/64585665</id>
-        <link href="https://tv.naver.com/v/64585665"/>
-        <updated>2024-11-17T08:10:21.285Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STAYC(스테이씨) - GPT | SBS 241117 방송]]></title>
-        <id>https://tv.naver.com/v/64585464</id>
-        <link href="https://tv.naver.com/v/64585464"/>
-        <updated>2024-11-17T08:10:21.286Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
