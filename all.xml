@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-15T08:10:43.432Z</updated>
+    <updated>2024-12-15T09:08:32.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[아이린(IRENE) - Like A Flower | SBS 241215 방송 (인기가요)]]></title>
@@ -10,13 +10,6 @@
         <link href="https://tv.naver.com/v/66403940"/>
         <updated>2024-12-15T08:10:42.814Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWICE(트와이스) - Strategy | SBS 241215 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/66403716</id>
-        <link href="https://tv.naver.com/v/66403716"/>
-        <updated>2024-12-15T08:10:42.815Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CRAVITY - Now or Never | SBS 241215 방송 (인기가요)]]></title>
@@ -73,5 +66,12 @@
         <link href="https://tv.naver.com/v/66402016"/>
         <updated>2024-12-15T08:10:42.828Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주시크(Joosiq) - 양재천에서 (Call Your Name) | SBS 241215 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/66401759</id>
+        <link href="https://tv.naver.com/v/66401759"/>
+        <updated>2024-12-15T09:08:31.715Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
