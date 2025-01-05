@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2025-01-05T06:10:54.734Z</updated>
+    <updated>2025-01-05T07:07:36.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐어스(SEVENUS) - 차갑고, 반짝이는 | SBS 250105 방송]]></title>
+        <id>https://tv.naver.com/v/67607717</id>
+        <link href="https://tv.naver.com/v/67607717"/>
+        <updated>2025-01-05T07:07:35.838Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지원이 - 자기야 화이팅 | SBS 250105 방송]]></title>
+        <id>https://tv.naver.com/v/67607716</id>
+        <link href="https://tv.naver.com/v/67607716"/>
+        <updated>2025-01-05T07:07:35.840Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권인서 - 여전히 난 너를 찾고 있어 | SBS 250105 방송]]></title>
+        <id>https://tv.naver.com/v/67607525</id>
+        <link href="https://tv.naver.com/v/67607525"/>
+        <updated>2025-01-05T07:07:35.840Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13Found - MMM | SBS 250105 방송]]></title>
+        <id>https://tv.naver.com/v/67607320</id>
+        <link href="https://tv.naver.com/v/67607320"/>
+        <updated>2025-01-05T07:07:35.843Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박성온(Park Sung On) - 직진이야 | SBS 250105 방송]]></title>
+        <id>https://tv.naver.com/v/67607115</id>
+        <link href="https://tv.naver.com/v/67607115"/>
+        <updated>2025-01-05T07:07:35.844Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이린(IRENE) - Like A Flower | SBS 241215 방송]]></title>
         <id>https://tv.naver.com/v/66403940</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/66402749"/>
         <updated>2024-12-15T08:10:42.822Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLASS:y(클라씨) - Psycho and Beautiful | SBS 241215 방송]]></title>
-        <id>https://tv.naver.com/v/66402744</id>
-        <link href="https://tv.naver.com/v/66402744"/>
-        <updated>2024-12-15T08:10:42.824Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEOVV - BODY | SBS 241215 방송]]></title>
-        <id>https://tv.naver.com/v/66402502</id>
-        <link href="https://tv.naver.com/v/66402502"/>
-        <updated>2024-12-15T08:10:42.825Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[izna (이즈나) - IZNA | SBS 241215 방송]]></title>
-        <id>https://tv.naver.com/v/66402021</id>
-        <link href="https://tv.naver.com/v/66402021"/>
-        <updated>2024-12-15T08:10:42.826Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범진(BUMJIN) - 나이테 (Growth Ring) | SBS 241215 방송]]></title>
-        <id>https://tv.naver.com/v/66402016</id>
-        <link href="https://tv.naver.com/v/66402016"/>
-        <updated>2024-12-15T08:10:42.828Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주시크(Joosiq) - 양재천에서 (Call Your Name) | SBS 241215 방송]]></title>
-        <id>https://tv.naver.com/v/66401759</id>
-        <link href="https://tv.naver.com/v/66401759"/>
-        <updated>2024-12-15T09:08:31.715Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
