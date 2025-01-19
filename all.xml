@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-19T10:07:52.558Z</updated>
+    <updated>2025-01-19T11:02:59.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[IVE - REBEL HEART | SBS 250119 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/68490977</id>
+        <link href="https://tv.naver.com/v/68490977"/>
+        <updated>2025-01-19T11:02:59.032Z</updated>
+        <content type="html"><![CDATA[04:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[완선&슬기 - LUCKY | SBS 250119 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/68490568</id>
@@ -24,6 +31,13 @@
         <link href="https://tv.naver.com/v/68490134"/>
         <updated>2025-01-19T08:09:37.962Z</updated>
         <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원어스(ONEUS) - 루퍼트의 눈물 (Rupert's drop) | SBS 250119 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/68489935</id>
+        <link href="https://tv.naver.com/v/68489935"/>
+        <updated>2025-01-19T11:02:59.037Z</updated>
+        <content type="html"><![CDATA[01:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위아이(WEi) - NOT ENOUGH | SBS 250119 방송 (인기가요)]]></title>
@@ -59,19 +73,5 @@
         <link href="https://tv.naver.com/v/68489095"/>
         <updated>2025-01-19T08:09:37.972Z</updated>
         <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서이브(SEO EVE) - 어른들은 몰라요 (They Never Know) | SBS 250119 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/68488903</id>
-        <link href="https://tv.naver.com/v/68488903"/>
-        <updated>2025-01-19T08:09:37.973Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ODD YOUTH - Best Friendz | SBS 250119 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/68488712</id>
-        <link href="https://tv.naver.com/v/68488712"/>
-        <updated>2025-01-19T10:07:51.868Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
     </entry>
 </feed>
