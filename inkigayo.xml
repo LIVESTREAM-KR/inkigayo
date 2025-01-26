@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2025-01-26T07:07:50.347Z</updated>
+    <updated>2025-01-26T08:09:33.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[KickFlip - 응 그래 (Umm Great) | SBS 250126 방송]]></title>
-        <id>https://tv.naver.com/v/68917995</id>
-        <link href="https://tv.naver.com/v/68917995"/>
-        <updated>2025-01-26T07:07:49.526Z</updated>
-        <content type="html"><![CDATA[02:35]]></content>
+        <title type="html"><![CDATA[GOT7 (갓세븐) - PYTHON | SBS 250126 방송]]></title>
+        <id>https://tv.naver.com/v/68920202</id>
+        <link href="https://tv.naver.com/v/68920202"/>
+        <updated>2025-01-26T08:09:32.577Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이규라 - 그때가 좋았어 | SBS 250126 방송]]></title>
-        <id>https://tv.naver.com/v/68917803</id>
-        <link href="https://tv.naver.com/v/68917803"/>
-        <updated>2025-01-26T07:07:49.527Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
+        <title type="html"><![CDATA[민니(MINNIE) - HER | SBS 250126 방송]]></title>
+        <id>https://tv.naver.com/v/68920179</id>
+        <link href="https://tv.naver.com/v/68920179"/>
+        <updated>2025-01-26T08:09:32.577Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐치더영(CATCH THE YOUNG) - 넌 언제나 (2025) | SBS 250126 방송]]></title>
-        <id>https://tv.naver.com/v/68917607</id>
-        <link href="https://tv.naver.com/v/68917607"/>
-        <updated>2025-01-26T07:07:49.527Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
+        <title type="html"><![CDATA[IVE - REBEL HEART | SBS 250126 방송]]></title>
+        <id>https://tv.naver.com/v/68919738</id>
+        <link href="https://tv.naver.com/v/68919738"/>
+        <updated>2025-01-26T08:09:32.578Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IVE - REBEL HEART | SBS 250119 방송]]></title>
-        <id>https://tv.naver.com/v/68490977</id>
-        <link href="https://tv.naver.com/v/68490977"/>
-        <updated>2025-01-19T11:02:59.032Z</updated>
-        <content type="html"><![CDATA[04:28]]></content>
+        <title type="html"><![CDATA[브브걸(BBGIRLS) - LOVE 2 | SBS 250126 방송]]></title>
+        <id>https://tv.naver.com/v/68919736</id>
+        <link href="https://tv.naver.com/v/68919736"/>
+        <updated>2025-01-26T08:09:32.579Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[완선&슬기 - LUCKY | SBS 250119 방송]]></title>
-        <id>https://tv.naver.com/v/68490568</id>
-        <link href="https://tv.naver.com/v/68490568"/>
-        <updated>2025-01-19T08:09:37.958Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
+        <title type="html"><![CDATA[원어스(ONEUS) - IKUK | SBS 250126 방송]]></title>
+        <id>https://tv.naver.com/v/68919558</id>
+        <link href="https://tv.naver.com/v/68919558"/>
+        <updated>2025-01-26T08:09:32.581Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[브브걸(BBGIRLS) - LOVE 2 | SBS 250119 방송]]></title>
-        <id>https://tv.naver.com/v/68490341</id>
-        <link href="https://tv.naver.com/v/68490341"/>
-        <updated>2025-01-19T08:09:37.960Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
+        <title type="html"><![CDATA[&TEAM - Yukiakari (Korean ver.) | SBS 250126 방송]]></title>
+        <id>https://tv.naver.com/v/68919341</id>
+        <link href="https://tv.naver.com/v/68919341"/>
+        <updated>2025-01-26T08:09:32.583Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원어스(ONEUS) - IKUK | SBS 250119 방송]]></title>
-        <id>https://tv.naver.com/v/68490134</id>
-        <link href="https://tv.naver.com/v/68490134"/>
-        <updated>2025-01-19T08:09:37.962Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
+        <title type="html"><![CDATA[&TEAM - Deer Hunter (Korean ver.) | SBS 250126 방송]]></title>
+        <id>https://tv.naver.com/v/68919139</id>
+        <link href="https://tv.naver.com/v/68919139"/>
+        <updated>2025-01-26T08:09:32.584Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원어스(ONEUS) - 루퍼트의 눈물 (Rupert's drop) | SBS 250119 방송]]></title>
-        <id>https://tv.naver.com/v/68489935</id>
-        <link href="https://tv.naver.com/v/68489935"/>
-        <updated>2025-01-19T11:02:59.037Z</updated>
-        <content type="html"><![CDATA[01:36]]></content>
+        <title type="html"><![CDATA[CIX(씨아이엑스) - THUNDER | SBS 250126 방송]]></title>
+        <id>https://tv.naver.com/v/68918928</id>
+        <link href="https://tv.naver.com/v/68918928"/>
+        <updated>2025-01-26T08:09:32.586Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위아이(WEi) - NOT ENOUGH | SBS 250119 방송]]></title>
-        <id>https://tv.naver.com/v/68489721</id>
-        <link href="https://tv.naver.com/v/68489721"/>
-        <updated>2025-01-19T08:09:37.964Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
+        <title type="html"><![CDATA[CIX(씨아이엑스) - My Everlasting Sun | SBS 250126 방송]]></title>
+        <id>https://tv.naver.com/v/68918707</id>
+        <link href="https://tv.naver.com/v/68918707"/>
+        <updated>2025-01-26T08:09:32.587Z</updated>
+        <content type="html"><![CDATA[02:01]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이진이 - 가을밤 떠난 너 | SBS 250119 방송]]></title>
-        <id>https://tv.naver.com/v/68489720</id>
-        <link href="https://tv.naver.com/v/68489720"/>
-        <updated>2025-01-19T08:09:37.966Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
+        <title type="html"><![CDATA[NCT WISH - Miracle | SBS 250126 방송]]></title>
+        <id>https://tv.naver.com/v/68918703</id>
+        <link href="https://tv.naver.com/v/68918703"/>
+        <updated>2025-01-26T08:09:32.588Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
