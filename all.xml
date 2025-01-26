@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-26T06:10:23.444Z</updated>
+    <updated>2025-01-26T07:07:50.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[KickFlip - 응 그래 (Umm Great) | SBS 250126 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/68917995</id>
+        <link href="https://tv.naver.com/v/68917995"/>
+        <updated>2025-01-26T07:07:49.526Z</updated>
+        <content type="html"><![CDATA[02:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이규라 - 그때가 좋았어 | SBS 250126 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/68917803</id>
+        <link href="https://tv.naver.com/v/68917803"/>
+        <updated>2025-01-26T07:07:49.527Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐치더영(CATCH THE YOUNG) - 넌 언제나 (2025) | SBS 250126 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/68917607</id>
+        <link href="https://tv.naver.com/v/68917607"/>
+        <updated>2025-01-26T07:07:49.527Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IVE - REBEL HEART | SBS 250119 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/68490977</id>
@@ -52,26 +73,5 @@
         <link href="https://tv.naver.com/v/68489720"/>
         <updated>2025-01-19T08:09:37.966Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n.SSign(엔싸인) - Love Potion (백일몽; 白日夢) | SBS 250119 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/68489504</id>
-        <link href="https://tv.naver.com/v/68489504"/>
-        <updated>2025-01-19T08:09:37.968Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지현 - 바다사나이 | SBS 250119 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/68489288</id>
-        <link href="https://tv.naver.com/v/68489288"/>
-        <updated>2025-01-19T08:09:37.970Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정슬(feat.신동) - 따봉 (Tabom) | SBS 250119 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/68489095</id>
-        <link href="https://tv.naver.com/v/68489095"/>
-        <updated>2025-01-19T08:09:37.972Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
 </feed>
