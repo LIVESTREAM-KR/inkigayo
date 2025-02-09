@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-09T06:10:57.804Z</updated>
+    <updated>2025-02-09T07:07:27.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[신나라 - 빛나라 | SBS 250209 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/69679059</id>
+        <link href="https://tv.naver.com/v/69679059"/>
+        <updated>2025-02-09T07:07:27.091Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KiMMi(킴미) - Highway | SBS 250209 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/69678783</id>
+        <link href="https://tv.naver.com/v/69678783"/>
+        <updated>2025-02-09T07:07:27.091Z</updated>
+        <content type="html"><![CDATA[02:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마하(macha) - Love is over | SBS 250209 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/69678781</id>
+        <link href="https://tv.naver.com/v/69678781"/>
+        <updated>2025-02-09T07:07:27.094Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kandis(캔디스) - Playground | SBS 250209 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/69678487</id>
+        <link href="https://tv.naver.com/v/69678487"/>
+        <updated>2025-02-09T07:07:27.098Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2Z - 기세 (氣勢) | SBS 250209 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/69678190</id>
+        <link href="https://tv.naver.com/v/69678190"/>
+        <updated>2025-02-09T07:07:27.099Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은혁(EUNHYUK) - UP N DOWN | SBS 250202 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/69245166</id>
@@ -38,40 +73,5 @@
         <link href="https://tv.naver.com/v/69244528"/>
         <updated>2025-02-02T08:10:03.230Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이규라 - 그때가 좋았어 | SBS 250202 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/69244076</id>
-        <link href="https://tv.naver.com/v/69244076"/>
-        <updated>2025-02-02T08:10:03.232Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피스트범프(FISTBUMP) - Misery (미저리) | SBS 250202 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/69243886</id>
-        <link href="https://tv.naver.com/v/69243886"/>
-        <updated>2025-02-02T10:07:36.104Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOMIN(김보민) - 몇 번 몇 밤 몇 달 | SBS 250202 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/69243686</id>
-        <link href="https://tv.naver.com/v/69243686"/>
-        <updated>2025-02-02T08:10:03.234Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바다(BADA) - Kiss Me Baby | SBS 250202 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/69243684</id>
-        <link href="https://tv.naver.com/v/69243684"/>
-        <updated>2025-02-02T08:10:03.236Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KickFlip - Mama Said (뭐가 되려고?) | SBS 250202 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/69243444</id>
-        <link href="https://tv.naver.com/v/69243444"/>
-        <updated>2025-02-02T08:10:03.237Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
