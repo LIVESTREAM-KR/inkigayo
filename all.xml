@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-23T07:08:44.520Z</updated>
+    <updated>2025-02-23T08:10:07.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[지수(JISOO) - earthquake | SBS 250223 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/70609771</id>
+        <link href="https://tv.naver.com/v/70609771"/>
+        <updated>2025-02-23T08:10:06.616Z</updated>
+        <content type="html"><![CDATA[04:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김채원 - Dear My Wave | SBS 250223 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/70609023</id>
+        <link href="https://tv.naver.com/v/70609023"/>
+        <updated>2025-02-23T08:10:06.618Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LUN8(루네이트) - 나비 (Butterfly) | SBS 250223 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/70609020</id>
+        <link href="https://tv.naver.com/v/70609020"/>
+        <updated>2025-02-23T08:10:06.621Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XODIAC - TIME 2 SHINE | SBS 250223 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/70608797</id>
+        <link href="https://tv.naver.com/v/70608797"/>
+        <updated>2025-02-23T08:10:06.624Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ALL(H)OURS - GIMME GIMME | SBS 250223 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/70608249</id>
@@ -45,33 +73,5 @@
         <link href="https://tv.naver.com/v/70607405"/>
         <updated>2025-02-23T07:08:43.793Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RESCENE(리센느) - Glow Up | SBS 250223 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/70607106</id>
-        <link href="https://tv.naver.com/v/70607106"/>
-        <updated>2025-02-23T07:08:43.795Z</updated>
-        <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KickFlip - Knock Knock | SBS 250223 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/70606864</id>
-        <link href="https://tv.naver.com/v/70606864"/>
-        <updated>2025-02-23T07:08:43.796Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blingone - Bubble Gum | SBS 250223 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/70606861</id>
-        <link href="https://tv.naver.com/v/70606861"/>
-        <updated>2025-02-23T07:08:43.797Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWIN(에이윈) - Hashtag(#Cheese) | SBS 250223 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/70606636</id>
-        <link href="https://tv.naver.com/v/70606636"/>
-        <updated>2025-02-23T07:08:43.799Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
