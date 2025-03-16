@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/inkigayo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-16T04:09:58.635Z</updated>
+    <updated>2025-03-16T05:08:24.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[KiiiKiii - I DO ME | SBS 250316 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/72016923</id>
+        <link href="https://tv.naver.com/v/72016923"/>
+        <updated>2025-03-16T05:08:24.001Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김지현 - 나도 여자랍니다 | SBS 250316 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/72016649</id>
+        <link href="https://tv.naver.com/v/72016649"/>
+        <updated>2025-03-16T05:08:24.001Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인피니트(INFINITE) - Dangerous | SBS 250309 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/71539652</id>
@@ -59,19 +73,5 @@
         <link href="https://tv.naver.com/v/71538022"/>
         <updated>2025-03-09T08:09:17.378Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hearts2Hearts(하츠투하츠) - The Chase | SBS 250309 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/71537760</id>
-        <link href="https://tv.naver.com/v/71537760"/>
-        <updated>2025-03-09T08:09:17.379Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KiiiKiii - I DO ME | SBS 250309 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/71537257</id>
-        <link href="https://tv.naver.com/v/71537257"/>
-        <updated>2025-03-09T07:06:52.552Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
     </entry>
 </feed>
